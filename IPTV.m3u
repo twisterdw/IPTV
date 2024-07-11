@@ -1,0 +1,1023 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал HD 
+https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал HD +4
+https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1 tvg-id="rossia1-pl1" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +1
+https://player.smotrim.ru/iframe/stream/live_id/60262
+#EXTINF:-1 tvg-id="rossia1-pl2" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +2
+https://player.smotrim.ru/iframe/stream/live_id/58511
+#EXTINF:-1 tvg-id="rossia1-pl3" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +3
+https://player.smotrim.ru/iframe/stream/live_id/60263
+#EXTINF:-1 tvg-id="rossia1-pl4" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +4
+https://player.smotrim.ru/iframe/stream/live_id/58510
+#EXTINF:-1 tvg-id="rossia1-pl5" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +5
+https://player.smotrim.ru/iframe/stream/live_id/60264
+#EXTINF:-1 tvg-id="rossia1-pl6" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +6
+https://player.smotrim.ru/iframe/stream/live_id/58509
+#EXTINF:-1 tvg-id="rossia1-pl7" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +7
+https://player.smotrim.ru/iframe/stream/live_id/60265
+#EXTINF:-1 tvg-id="rossia1-pl8" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +8
+https://player.smotrim.ru/iframe/stream/live_id/58508
+#EXTINF:-1 tvg-id="rossia1-pl9" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", Россия 1 HD +9
+https://player.smotrim.ru/iframe/stream/live_id/60266
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-HD.png", НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-World.png" tvg-id="ntv-mir", НТВ-Мир
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-Belarus.png", НТВ-Беларусь
+https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-America.png", НТВ-Америка
+http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-K-HD.png", Россия К HD 
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1 tvg-id="kultura-pl2" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-K-HD.png", Россия К HD +2 
+https://player.smotrim.ru/iframe/stream/live_id/60881
+#EXTINF:-1 tvg-id="kultura-pl4" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-K-HD.png", Россия К HD +4
+https://player.smotrim.ru/iframe/stream/live_id/60882
+#EXTINF:-1 tvg-id="kultura-pl7" group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Russia-K-HD.png", Россия К HD +7
+https://player.smotrim.ru/iframe/stream/live_id/60883
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР +2
+http://94.230.240.17:8080/otp/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Ren-TV-HD.png", РенТВ HD
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1 group-title="Общие"  tvg-logo="http://loganet.ru/images/channels/Ren-TV-Int.png", РенТВ Int
+http://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Domestic.png", Домашний HD
+http://player.smotrim.ru/iframe/stream/live_id/64556?43
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TV-3-Belarus.png", ТВ3 Беларусь
+http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Star.png", Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/World.png", Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TNV-Tatarstan.png", ТНВ Татарстан
+http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/TNV-Planet.png", ТНВ Планета
+http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/BST.png", БСТ
+http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTK.png", НТК
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/STV-Belarus.png", СТВ Беларусь
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Кино", .black 
+http://91.205.199.3/black/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", .red
+http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино", .red HD
+http://188.113.190.15/149/mono.m3u8
+#EXTINF:-1 group-title="Кино", .sci-fi 
+http://91.205.199.3/scifi/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="Кино", 312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="Кино", День Победы
+https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
+#EXTINF:-1 group-title="Кино", Дом кино
+http://31.210.208.171:8080/domkino/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино", Дом кино Премиум
+http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Дом кино Премиум HD
+http://188.113.190.15/91/video.m3u8
+#EXTINF:-1 group-title="Кино", Дорама
+http://188.113.190.15/233/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кино", Душевное
+http://45.93.46.27:8887/8296/video.m3u8
+#EXTINF:-1 group-title="Кино", Душевное HD
+http://195.211.27.149:8887/8296/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино", Еврокино
+http://188.113.190.15/49/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кино", Иллюзион+
+http://188.113.190.15/45/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кино", Индийское кино 
+https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Индия
+http://95.156.76.230:33001/udp/230.4.34.105:1234
+#EXTINF:-1 group-title="Кино", Камеди
+http://188.134.76.176:81/udp/235.10.10.160:1234
+#EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
+http://95.156.76.230:33001/udp/230.4.34.85:1234
+#EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD
+http://188.113.190.15/156/mono.m3u8
+#EXTINF:-1 group-title="Кино", Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Кино", Кино без границ
+http://185.163.194.185:6987/233/mpegts
+#EXTINF:-1 group-title="Кино", Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Кино ТВ +4
+http://live-3.otcnet.ru/kinotvplus4/index.m3u8
+#EXTINF:-1 group-title="Кино", Кино ТВ +7
+http://live-3.otcnet.ru/kinotvplus7/index.m3u8
+#EXTINF:-1 group-title="Кино", Кино ТВ HD 
+http://188.113.190.15/3/video.m3u8
+#EXTINF:-1 group-title="Кино", Кино ТВ HD +7
+http://live-3.otcnet.ru/kinotvplus7/index.m3u8
+#EXTINF:-1 group-title="Кино", Кинокомедия
+http://81.23.189.199:4022/udp/234.0.0.118:2000
+#EXTINF:-1 group-title="Кино", Кинокомедия HD
+http://188.113.190.15/334/video.m3u8
+#EXTINF:-1 group-title="Кино", Киномикс
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Киномикс HD
+http://188.113.190.15/335/video.m3u8
+#EXTINF:-1 group-title="Кино", Кинопоказ
+http://178.163.99.10:4022/udp/234.0.0.209:2000
+#EXTINF:-1 group-title="Кино", Кинопремьера
+http://188.113.190.15/309/video.m3u8
+#EXTINF:-1 group-title="Кино", Кинопремьера HD
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Киносат
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Киносвидание
+http://91.205.199.3/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Кино", Киносемья 
+http://188.113.190.15/311/video.m3u8
+#EXTINF:-1 group-title="Кино", Киносемья HD
+http://91.205.199.3:80/kinosemyahd/index.m3u8
+#EXTINF:-1 group-title="Кино", Киносерия
+http://188.113.190.15/312/video.m3u8
+#EXTINF:-1 group-title="Кино", Киносерия HD
+http://188.113.190.15/336/mono.m3u8
+#EXTINF:-1 group-title="Кино", Киноужас
+http://31.131.136.4:8001/play/e00b
+#EXTINF:-1 group-title="Кино", Киноужас HD
+http://188.113.190.15/323/mono.m3u8
+#EXTINF:-1 group-title="Кино", Кинохит
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Кинохит HD
+http://91.205.199.3:80/kinoxithd/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное
+http://45.93.46.27:8887/8323/video.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd", Комедийное HD
+http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино", Комедия 
+http://91.142.158.107:8092/play/30/index.m3u8
+#EXTINF:-1 group-title="Кино", Любимое HD
+http://195.211.27.149:8887/8310/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино", Любимое кино 
+http://92.242.110.52:9835/udp/238.1.11.70:1234
+#EXTINF:-1 group-title="Кино", Мир сериала 
+http://188.113.190.15/188/video.m3u8
+#EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция 
+http://95.156.76.230:33001/udp/230.4.34.124:1234
+#EXTINF:-1 group-title="Кино", Мужское кино
+https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Мужское кино HD
+http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8
+#EXTINF:-1 group-title="Кино", Наше
+http://45.93.46.27:8887/8059/video.m3u8
+#EXTINF:-1 group-title="Кино", Наше HD
+http://195.211.27.149:8887/8059/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино", Наше Мужское
+http://45.93.46.27:8887/8740/video.m3u8
+#EXTINF:-1 group-title="Кино", Наше новое кино 
+http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино", НСТ 
+http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит HD 
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал HD 
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="Кино", Остросюжетное HD
+http://45.93.46.27:8887/8184/video.m3u8
+#EXTINF:-1 group-title="Кино", Премиальное HD
+http://45.93.46.27:8887/8028/video.m3u8
+#EXTINF:-1 group-title="Кино", Родное кино 
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Русский бестселлер
+http://91.142.158.107:8092/play/26/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский детектив 
+http://91.142.158.107:8092/play/27/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский иллюзион
+http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский роман
+http://91.142.158.107:8092/play/25/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский роман HD
+http://188.113.190.15/221/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кино", Сапфир HD
+http://188.113.190.15/182/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кино", Страх HD
+http://195.9.195.3:8080/hls/202127.m3u8
+#EXTINF:-1 group-title="Кино", Страшное HD
+http://45.93.46.27:8887/8198/video.m3u8
+#EXTINF:-1 group-title="Кино", Феникс Плюс Кино
+http://188.113.190.15/24/mono.m3u8
+#EXTINF:-1 group-title="Кино", Шокирующее
+http://45.93.46.27:8887/8322/video.m3u8
+#EXTINF:-1 group-title="Кино", A1
+http://91.205.199.3/amedia1/index.m3u8
+#EXTINF:-1 group-title="Кино", A1 HD
+http://77.106.252.178:4022/udp/233.33.220.130:5050
+#EXTINF:-1 group-title="Кино", A2 
+http://91.205.199.3/amedia2/index.m3u8
+#EXTINF:-1 group-title="Кино", A2 HD
+http://188.134.76.176:81/udp/235.10.10.125:1234
+#EXTINF:-1 group-title="Кино", Amedia Hit
+http://178.163.99.10:4022/udp/234.0.0.169:2000
+#EXTINF:-1 group-title="Кино", Amedia Hit HD
+http://81.23.189.199:4022/udp/234.0.0.169:2000
+#EXTINF:-1 group-title="Кино", Amedia Premium
+http://188.113.190.15/140/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кино", Amedia Premium HD 
+http://78.62.135.122:8082/amediapremiumhd/index.m3u8
+#EXTINF:-1 group-title="Кино", Bollywood HD
+https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Bolt
+http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Bolt HD
+http://188.134.76.176:81/udp/235.10.10.107:1234
+#EXTINF:-1 group-title="Кино", Cinema HD
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Cinema Classic
+https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="Кино", Comedy Central
+http://45.93.46.27:8887/8171/video.m3u8
+#EXTINF:-1 group-title="Кино", Epic Drama
+http://81.7.108.21:9000/play/EpicDramaHD-DVBC330-sti4400019110542
+#EXTINF:-1 group-title="Кино", FAN HD
+http://188.134.76.176:81/udp/235.10.10.60:1234
+#EXTINF:-1 group-title="Кино", FilmBox
+http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
+#EXTINF:-1 group-title="Кино", FilmBox Arthouse
+http://188.113.190.15/207/mono.m3u8
+#EXTINF:-1 group-title="Кино", FlixSnip
+http://92.242.110.52:9835/udp/238.1.8.38:1234
+#EXTINF:-1 group-title="Кино", FX
+http://81.7.108.21:9000/play/FOX-DVBC274-sti4400018450230 
+#EXTINF:-1 group-title="Кино", FX Life
+http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
+#EXTINF:-1 group-title="Кино", Hollywood HD 
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Kinojam 1
+http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино", Kinoliving
+http://92.242.110.52:9835/udp/238.1.8.1:1234
+#EXTINF:-1 group-title="Кино", Kino24
+http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Plan B
+http://188.134.76.176:81/udp/235.10.10.151:1234
+#EXTINF:-1 group-title="Кино", Plan B HD 
+http://91.205.199.7:8000/play/a0rh
+#EXTINF:-1 group-title="Кино", Romance
+http://camera.global-x.ru/Motosport/index.m3u8
+#EXTINF:-1 group-title="Кино", Shot TV
+http://188.113.190.15/166/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кино", Star Cinema
+http://81.7.108.21:9000/play/StarCinema-DVBC378-sti4400019110528
+#EXTINF:-1 group-title="Кино", Star Family
+http://188.134.76.176:81/udp/235.10.10.251:1234
+#EXTINF:-1 tvg-id="start-air" group-title="Кино", Start Air
+http://188.113.190.15/139/mono.m3u8
+#EXTINF:-1 tvg-id="start-air" group-title="Кино", Start Air HD
+http://188.134.76.176:81/udp/235.10.10.139:1234
+#EXTINF:-1 tvg-id="start-world" group-title="Кино" tvg-id="start-world", Start World
+http://188.113.190.15/111/mono.m3u8
+#EXTINF:-1 tvg-id="start-world" group-title="Кино" tvg-id="start-world", Start World HD 
+http://188.134.76.176:81/udp/235.10.10.30:1234
+#EXTINF:-1 group-title="Кино", Timeless Dizi Channel 
+https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", Trash
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 group-title="Кино", TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 group-title="Кино", VHS-ка
+http://176.197.188.55:81/udp/239.255.42.88:1234
+#EXTINF:-1 group-title="Кино", Viasat Kino
+http://81.7.108.21:9000/play/TV1000-DVBC322-sti4400017090089
+#EXTINF:-1 group-title="Кино", Viasat Kino Action
+http://81.7.108.21:9000/play/TV1000Action-DVBC322-sti4400017090089
+#EXTINF:-1 group-title="Кино", Viasat Kino World
+http://81.7.108.21:9000/play/TV1000RusskojeKino-DVBC322-sti4400017090089
+#EXTINF:-1 group-title="Кино", Viju TV1000 
+http://91.205.199.3/tv1000/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju TV1000 HD
+http://141.95.55.143/CH3869/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju TV1000 Action
+http://91.205.199.3/tv1000action/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju TV1000 Новелла
+http://91.218.160.212:8015/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
+http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино", Viju+ Premiere
+http://188.113.190.15/201/mono.m3u8
+#EXTINF:-1 group-title="Кино", Viju+ Premiere HD
+http://95.156.76.230:33001/udp/230.4.34.107:1234
+#EXTINF:-1 group-title="Кино", Viju+ Megahit HD
+http://91.205.199.3/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju+ Comedy HD
+http://91.205.199.3/vipcomedi/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju+ Serial HD
+http://91.205.199.3:80/vipserialhd/index.m3u8
+
+
+#EXTINF:-1 group-title="Детские", В гостях у сказки
+http://188.113.190.15/43/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Детские", Детский мир
+http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 group-title="Детские", Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детские", Капитан Фантастика HD
+https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
+#EXTINF:-1 group-title="Детские", Карусель
+http://91.142.158.107:8092/play/8/index.m3u8
+#EXTINF:-1 group-title="Детские", Карусель International 
+https://cdn1.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="Детские", КиноМульт
+http://de.russkoe-iptv.com:88/s/s-0194f550/kinomult.m3u8
+#EXTINF:-1 group-title="Детские", Кнопка ТВ 
+http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 group-title="Детские", Лëва
+http://91.205.199.7:8000/play/PlanB
+#EXTINF:-1 group-title="Детские", Лëва HD
+http://188.134.76.176:81/udp/235.10.10.166:1234
+#EXTINF:-1 group-title="Детские", Мульт 
+https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
+#EXTINF:-1 group-title="Детские", Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Детские", Мультиландия
+http://188.113.190.15/108/video.m3u8
+#EXTINF:-1 group-title="Детские", Мультимузыка
+http://91.142.158.107:8092/play/24/index.m3u8
+#EXTINF:-1 group-title="Детские", О!
+http://188.113.190.15/136/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Детские", Пингвин Лоло
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Детские", Рыжий 
+https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+#EXTINF:-1 group-title="Детские", Смайл ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Детские", Солнце
+http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", СТС Kids
+http://188.113.190.15/132/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Детские", СТС Kids HD
+http://78.62.135.122:8082/STSKidsHD/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="malysh", СуперГерои
+http://31.210.208.171:8080/malysh/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Детские", Уникум 
+http://188.113.190.15/41/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Детские", Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Детские", Baby Time 
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 group-title="Детские", Cartoonito 
+http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Детские", Cartoonito HD
+http://stream01.vnet.am/Channel_120/mono.m3u8
+#EXTINF:-1 group-title="Детские", Cartoon Network
+http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", Cartoon Classics
+http://178.163.99.10:4022/udp/234.0.0.238:2000
+#EXTINF:-1 group-title="Детские", Duck TV HD
+https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 group-title="Детские", FamilyJam
+http://95.83.111.209:4022/udp/239.255.40.248:5500
+#EXTINF:-1 group-title="Детские", Gulli Girl
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 group-title="Детские", Nickelodeon
+http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Детские", Nickelodeon HD
+http://stream01.vnet.am/Channel_114/mono.m3u8
+#EXTINF:-1 group-title="Детские", Nick Jr.
+http://81.7.108.21:9000/play/NickJr-DVBC346-sti4400019110542
+#EXTINF:-1 group-title="Детские", Nicktoons
+http://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 group-title="Детские", TiJi
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", 2x2
+http://195.211.27.149:8887/8045/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные", 2x2 HD
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 group-title="Познавательные", 360 HD 
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="Познавательные", 365 дней ТВ 
+https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Арсенал
+https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Арсенал HD
+http://45.143.108.104/arsenal/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", В мире животных
+https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", В мире животных HD
+http://195.211.27.149:8887/8456/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные", Вопросы и ответы
+http://188.113.190.15/74/video.m3u8
+#EXTINF:-1 group-title="Познавательные", Время 
+http://188.113.190.15/118/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Глазами туриста HD 
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
+#EXTINF:-1 group-title="Познавательные", Глазами туриста 4k
+http://45.93.46.27:8887/8904/video.m3u8
+#EXTINF:-1 group-title="Познавательные", Доктор 
+http://188.113.190.15/29/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Домашние животные 
+http://109.239.208.82/animals/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ЕГЭ 
+http://camera.global-x.ru/EGETV/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Живая планета
+http://109.239.208.82:80/liveplanet/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Живая природа
+http://95.156.76.230:33001/udp/230.4.34.25:1234
+#EXTINF:-1 group-title="Познавательные", Живая природа HD 
+http://109.239.208.82:80/livenaturehd/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Зал суда
+http://95.156.76.230:33001/udp/230.4.34.6:1234
+#EXTINF:-1 group-title="Познавательные", Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательные", Здоровое ТВ
+http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Зоо ТВ
+http://185.112.140.28/zoo_tv/index.m3u8
+#EXTINF:-1 group-title="Познавательные", История
+http://109.239.208.82:80/history/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", КВН ТВ
+https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Ключ
+http://188.134.76.176:81/udp/235.10.10.128:1234
+#EXTINF:-1 group-title="Познавательные", Конгресс ТВ
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Кто есть кто 
+https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", МосОбр ТВ 
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Моя планета
+http://109.239.208.82/myplanet/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Моя планета HD
+https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Нано
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:-1 group-title="Познавательные", Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Наука 2.0
+http://188.113.190.15/96/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
+https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Наша сибирь
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 group-title="Познавательные", НТВ Право 
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ocean-tv" group-title="Познавательные", Океан
+https://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
+#EXTINF:-1  group-title="Познавательные", Открытый мир
+http://146.158.0.56:80/OtkritiyMir/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Первый космический
+https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Первый космический HD 
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Перец
+http://178.124.179.122:8088/Peretz/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Победа
+http://188.113.190.15/85/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Поехали!
+http://188.113.190.15/206/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Приключения HD
+http://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Продвижение 
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Просвещение 
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Психология 21
+http://188.113.190.15/73/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Пятница!
+http://streamer2.fokks.ru:10016/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Пятница! HD
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+#EXTINF:-1 group-title="Познавательные", Ратник 
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Резонанс ТВ
+http://serv25.vintera.tv:8081/1pnk/canal1/chunks.m3u8
+#EXTINF:-1 group-title="Познавательные", Ретро
+http://109.239.208.82:80/retro/index.m3u8
+#EXTINF:-1 group-title="Познавательные", РЖД HD 
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Сарафан
+http://178.124.179.122:8088/Sarafan/index.m3u8
+#EXTINF:-1  group-title="Познавательные", Светлое ТВ
+http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Познавательные", СТС International
+https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота!
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="super", Суббота! HD
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:-1 group-title="Познавательные", Танцуй!
+http://92.242.110.52:9835/udp/238.1.9.2:1234
+#EXTINF:-1 group-title="Познавательные", Телепутешествия 
+https://stream2.itv.uz/1453/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Техно 24
+https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", Театр
+http://188.113.190.15/180/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ТНТ
+http://streamer2.fokks.ru:10019/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ТНТ HD
+http://185.112.140.28/TNT_HD/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ТНТ International (Европа)
+https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", ТНТ4
+http://91.205.199.3/tnt4/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Тонус 
+http://109.239.208.82/tonus/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Точка Отрыва 
+http://188.113.190.15/183/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Точка ТВ 
+https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Успех 
+http://camera.global-x.ru/Uspeh/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ЦТВ
+http://188.113.190.15/228/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Эхо TV 
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Animal Planet
+http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Animal Planet HD 
+http://81.7.108.21:9000/play/AnimalPlanetHD-DVBC394-sti4400018360108
+#EXTINF:-1 group-title="Познавательные", Big Planet 
+http://92.242.110.52:9835/udp/238.1.8.20:1234
+#EXTINF:-1 group-title="Познавательные", Da Vinci 
+http://188.113.190.15/161/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery
+http://stream01.vnet.am/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery HD
+http://81.7.108.21:9000/play/DiscoveryShowcaseHDTBS-DVBC418-sti4400018210025
+#EXTINF:-1 group-title="Познавательные", Docubox
+http://188.113.190.15/146/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", DTX Poland HD
+http://178.219.128.68:64888/DTXHD
+#EXTINF:-1 group-title="Познавательные", English Class
+http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
+#EXTIN:-1 group-title="Познавательные", Epic HD
+http://strm.yandex.ru/kal/epic/epic0.m3u8
+#EXTINF:-1 group-title="Познавательные", Gagsnetwork
+http://91.205.199.3/gagsnetwork/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Galaxy TV
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv", Galaxy HD
+https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", HDL
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные", HGTV
+http://31.131.136.4:8001/play/e017
+#EXTINF:-1 group-title="Познавательные", HGTV HD
+http://185.163.194.185:6987/44/mpegts
+#EXTINF:-1 group-title="Познавательные", History
+http://195.211.27.149:8887/8356/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные", Insight TV
+https://stream2.itv.uz/1416/index.m3u8
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery HD
+http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108
+#EXTINF:-1 group-title="Познавательные", Museum HD
+http://81.7.108.21:9000/play/DTXHD-DVBC386-sti4400018360108
+#EXTINF:-1 group-title="Познавательные", Museum 4k
+http://45.93.46.27:8887/8905/video.m3u8
+#EXTINF:-1 group-title="Познавательные", MyZen TV
+http://188.134.76.176:81/udp/235.10.10.120:1234
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
+http://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные", National Geographic
+http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательные", National Geographic HD
+http://81.7.108.21:9000/play/NatGeoHD-DVBC402-sti4400018360108
+#EXTINF:-1 group-title="Познавательные", RT Doc 
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Познавательные", RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 group-title="Познавательные", RTVi 
+http://81.7.108.21:9000/play/RTVi-DVBC314-sti4400019110542
+#EXTINF:-1 group-title="Познавательные", San Porto
+http://188.113.190.15/209/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Silkway HD
+http://188.113.190.15/163/mono.m3u8
+#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные", Terra
+http://188.113.190.15/78/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", TLC 
+http://81.7.108.21:9000/play/DiscoveryTLC-DVBC306-sti4400017090089 
+#EXTINF:-1 group-title="Познавательные", TLC HD
+http://212.0.213.132:8084/TLC/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Top Secret
+http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", TV Brics 
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательные", TVM Channel 
+http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Travel+Adventure
+http://188.113.190.15/106/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Travel Channel HD
+http://81.7.108.21:9000/play/TravelChannelHD-DVBC330-sti4400019110542
+#EXTINF:-1 group-title="Познавательные", Viju Nature
+http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju Nature HD
+http://91.205.199.3/viasatnature/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju History
+http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju History HD
+http://141.95.55.143/CH3871/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju Explore
+http://91.205.199.3/viasatexplorer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
+http://91.205.199.7:8000/play/a0r8
+#EXTINF:-1 group-title="Познавательные", Zooпарк
+http://109.239.208.82:80/zoo/index.m3u8
+
+
+#EXTINF:-1 group-title="Новости", 360 Новости
+https://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 group-title="Новости", Восток 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1 group-title="Новости", Известия 
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Новости", Крик ТВ 
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 group-title="Новости", Кубань 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 group-title="Новости", Мир 24 
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 group-title="Новости", Москва 24
+http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Новости", Москва. Доверие
+https://player.smotrim.ru/iframe/stream/live_id/61125
+#EXTINF:-1 group-title="Новости", ОТВ Екатеринбург HD
+https://vd.obltv.ru/watch/air_hd.m3u8
+#EXTINF:-1 group-title="Новости", РБК 
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 group-title="Новости", Соловьёв.Live HD
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+#EXTINF:-1 group-title="Новости", CNN
+http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+#EXTINF:-1 group-title="Новости", Deutsche Welle
+http://sc.id-tv.kz/DW.m3u8
+#EXTINF:-1 group-title="Новости", Euronews
+http://edge02.odtv.az/o1/euronews/playlist.m3u8
+#EXTINF:-1 group-title="Новости", France 24
+http://185.19.190.1:8090/FRANCE24/index.m3u8
+#EXTINF:-1 group-title="Новости", NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://1000marken.net/wp-content/uploads/2021/01/Sky-News-Logo-2048x1152.png", Sky News
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
+
+
+#EXTINF:-1 group-title="Политические", БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Политические", Вместе-РФ 
+http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Политические", Дума ТВ 
+https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Политические", Красная линия 
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Политические", ЛДПР ТВ 
+http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Хобби", Авто 24
+http://91.205.199.3:80/avto24/index.m3u8
+#EXTINF:-1 group-title="Хобби", Авто Плюс HD
+https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
+http://188.113.190.15/131/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
+http://92.242.110.52:9835/udp/238.1.7.14:1234
+#EXTINF:-1 group-title="Хобби", Дикая охота HD 
+http://178.163.99.10:4022/udp/234.0.0.11:2000
+#EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
+http://stream01.vnet.am/Channel_126/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Дикий 
+http://95.156.76.230:33001/udp/230.4.34.78:1234
+#EXTINF:-1 group-title="Хобби", Драйв
+http://188.113.190.15/68/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Хобби", Еда
+http://45.93.46.27:8887/8140/video.m3u8
+#EXTINF:-1 group-title="Хобби", Еда HD
+http://188.134.76.176:81/udp/235.10.10.240:1234
+#EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
+https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
+#EXTINF:-1 group-title="Хобби", Живи
+https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь HD
+https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
+#EXTINF:-1 group-title="Хобби", Загородный 
+http://stream01.vnet.am/DTX/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Конный мир 
+http://188.113.190.15/76/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Хобби", Конный мир HD
+http://92.242.110.52:9835/udp/238.1.2.8:1234
+#EXTINF:-1 group-title="Хобби", КтоКуда
+http://camera.global-x.ru/MirUvlecheniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Кухня ТВ
+http://188.113.190.15/314/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Хобби", Лапки Live
+http://91.247.68.229:8000/play/Lapki/index.m3u8
+#EXTINF:-1 group-title="Хобби", Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
+#EXTINF:-1 group-title="Хобби", Моя стихия 
+http://92.242.110.52:9835/udp/238.1.7.19:1234
+#EXTINF:-1 group-title="Хобби", Мужской 
+https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
+#EXTINF:-1 group-title="Хобби", Наша тема 
+http://188.113.190.15/218/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Хобби", НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 group-title="Хобби", Оружие
+http://188.113.190.15/155/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Охота и рыбалка 
+http://178.163.99.10:4022/udp/234.0.0.230:2000
+#EXTINF:-1 group-title="Хобби", Охотник и рыболов
+http://185.163.194.185:6987/120/mpegts
+#EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
+https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
+#EXTINF:-1 group-title="Хобби", Первый вегетарианский
+http://88.85.172.243:7012/play/a02m
+#EXTINF:-1 group-title="Хобби", Рыбалка и охота
+http://86.57.178.105:9952/oh
+#EXTINF:-1 group-title="Хобби", Рыболов
+http://178.252.89.195:4022/udp/233.166.172.127:1234
+#EXTINF:-1 group-title="Хобби", Телекафе
+http://188.113.190.11/117/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Хобби", Усадьба
+http://188.113.190.15/71/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV
+http://92.242.110.52:9835/udp/238.1.7.5:1234
+#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Fashion & Lifestyle
+https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.m3u8
+#EXTINF:-1 group-title="Хобби", Fashion TV HD
+http://188.113.190.15/194/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Хобби", FashionBox
+http://camera.global-x.ru/FashionBox/index.m3u8
+#EXTINF:-1 group-title="Хобби", Food Network 
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1 group-title="Хобби", World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Хобби", Women Magazine
+http://92.242.110.52:9835/udp/238.1.8.19:1234
+
+
+#EXTINF:-1 group-title="Религия", Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="Религия", МузСоюз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Религия", Три ангела
+https://hls.tv.3angels.ru/stream.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png", Астрахань Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Бокс ТВ
+https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Матч!
+http://streamer2.fokks.ru:10003/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! HD
+http://tv.streams.baikal-telecom.net:8080/MatchHD/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Арена HD
+http://188.113.190.15/325/video.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Боец 
+http://188.113.190.11/126/video.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Боец HD
+http://188.134.76.176:81/udp/235.10.10.142:1234
+#EXTINF:-1 group-title="Спорт", Матч! Игра 
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="Спорт", Матч! Игра HD
+http://188.113.190.15/326/video.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Премьер
+http://188.113.190.15/103/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Премьер HD
+http://188.134.76.176:81/udp/235.10.10.182:1234
+#EXTINF:-1 group-title="Спорт", Матч! Страна
+http://188.113.190.15/95/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+http://188.113.190.15/176/video.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
+http://45.93.46.27:8887/8237/video.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
+http://188.113.190.15/177/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
+http://45.93.46.27:8887/8238/video.m3u8
+#EXTINF:-1 group-title="Спорт", Мир баскетбола
+http://92.242.110.52:9835/udp/238.1.1.17:1234
+#EXTINF:-1 group-title="Спорт", Спортивный
+https://bl.webcaster.pro/media/playlist/free_c7a42136a22dcc4c7c1c4318957e5b79/33_90563280/480q/1b6d7c2dd2f44c77f26d7ffa2897399f/4867405759.m3u8
+#EXTINF:-1 group-title="Спорт", Старт HD
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="Спорт", Старт Триумф HD
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 group-title="Спорт", Старт Туран
+https://streams.qazcdn.net/live2/bQS3PALvoU/live/bQS3PALvoU_1080/chunks.m3u8
+#EXTINF:-1 group-title="Спорт", Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="Спорт", Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Футбольный HD
+https://bl.webcaster.pro/media/playlist/free_4826041ac19d24905b2b303254662b17/33_94615152/720q/95829aead81db732e4cf1a7bb22ab598/4867406070.m3u8
+#EXTINF:-1 group-title="Спорт", Хоккейный
+https://bl.webcaster.pro/media/playlist/free_8e7441d1ce4776f0e1b921e9abc8f799/33_92079550/480q/1b7b4c6773c34a4abd51718269a8a089/4867406233.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 1
+http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Спорт", Eurosport 1 HD
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 2 
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
+http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
+#EXTINF:-1 group-title="Спорт", Extreme Sports
+http://81.23.189.199:4022/udp/234.0.0.113:2000
+#EXTINF:-1 group-title="Спорт", Fast&FunBox
+http://188.113.190.15/208/video.m3u8
+#EXTINF:-1 group-title="Спорт", Fast&FunBox HD 
+http://81.7.108.21:9000/play/FastAndFunBOXHD-DVBC346-sti4400019110542
+#EXTINF:-1 group-title="Спорт", FightBox
+https://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Golf Channel English
+http://78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
+https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Premier Sports 1
+https://7pal.short.gy/prsport1
+#EXTINF:-1 group-title="Спорт", Premier Sports 2
+https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Спорт", QazSport 🇰🇿
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Russian Extreme
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+http://185.163.194.185:6987/150/mpegts
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
+http://45.93.46.27:8887/8565/video.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+http://185.163.194.185:6987/151/mpegts
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
+https://stream2.itv.uz/1264/index.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
+http://185.163.194.185:6987/149/mpegts
+#EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ 
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="Спорт", Sky Sports 3 NZ
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="Спорт", Sky Sports 4 NZ
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="Спорт" tvg-id="sky-sports-action", Sky Sports Action
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 group-title="Спорт", Sky Sports Golf
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 group-title="Спорт", Sky Sports F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="Спорт", Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Спорт", Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="Спорт", Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="Спорт", Sky Sports News
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="Спорт", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Спорт", TNT Sport 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Спорт", TNT Sport 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Спорт", TNT Sport 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Спорт", TNT Sport 4
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="Спорт", Viju+ Sport
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыка", 1HD
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 group-title="Музыка", Жар птица 
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка", Жара 
+http://188.113.190.15/328/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка", Курай
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-id="la-minor" group-title="Музыка", Ля-минор 
+http://92.242.110.52:9835/udp/238.1.6.17:1234
+#EXTINF:-1 group-title="Музыка", Музыка Первого 
+http://91.90.255.235:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="Музыка", О2ТВ
+http://188.113.190.15/189/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", ТНТ Music HD
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 group-title="Музыка", Туган Тел
+http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" group-title="Музыка", Шансон-ТВ 
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Aiva HD
+https://stream2.itv.uz/1268/index.m3u8
+#EXTINF:-1 group-title="Музыка", BackusTV Music 
+https://stream.backustv.ru/live/btv3/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыка", Bridge TV Фрэш
+http://188.113.190.15/88/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-id="classic-music" group-title="Музыка", Classic Music
+http://95.156.76.230:33001/udp/230.4.34.64:1234
+#EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Dance 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Flashback 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Music 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Rock 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Europa Plus TV
+http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 group-title="Музыка", Kiss Kiss
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка", Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музыка", Maidan
+http://188.134.76.176:81/udp/235.10.10.212:1234
+#EXTINF:-1 group-title="Музыка", MCM Top
+http://92.242.110.52:9835/udp/238.1.9.9:1234
+#EXTINF:-1 group-title="Музыка", Mezzo 
+http://178.212.71.253:8002/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Музыка", Mezzo Live 
+http://91.207.115.228:5000/c125
+#EXTINF:-1 group-title="Музыка", MTV Hits 
+http://81.7.108.21:9000/play/MTVHits-DVBC298-sti4400018450230
+#EXTINF:-1 group-title="Музыка", MTV Live HD
+http://81.7.108.21:9000/play/MTVLiveHD-DVBC306-sti4400017090089
+#EXTINF:-1 group-title="Музыка", MTV 00's HD
+http://170.82.37.21:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV 90's
+http://5.153.180.133:8004/play/a094
+#EXTINF:-1 group-title="Музыка", MusicBox Gold 
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="Музыка", Polsat Music HD
+https://89.187.167.247/polsatmusic.stream/chunks.m3u8
+#EXTINF:-1 group-title="Музыка", Radio M2O 
+https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+#EXTINF:-1 group-title="Музыка", Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", RU.TV 
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 group-title="Музыка", Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="Музыка", Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка", TMTV 
+http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка", Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Музыка", V2BEAT
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="Музыка", Viva TV Russia
+https://ipv4.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
