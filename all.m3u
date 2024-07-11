@@ -1188,11 +1188,11 @@ https://ipv4.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Грузинские", Rustavi 2
-http://188.93.94.130/rustavi2hqnew/index.m3u8
+http://80.77.52.6:7781/udp/230.0.5.7:12345
 #EXTINF:-1 group-title="Грузинские", silk universal 720
 http://188.93.94.130/silk_sport4/index.m3u8
 #EXTINF:-1 group-title="Грузинские", imedi
-http://188.93.94.130/imedihq/index.m3u8
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 group-title="Грузинские", 1 arxi
 http://188.93.94.130/gpb2hq/index.m3u8
 #EXTINF:-1 group-title="Грузинские", axali arxi
