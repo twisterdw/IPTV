@@ -1198,7 +1198,7 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 group-title="Грузинский" tvg-logo="https://i.imgur.com/BW95PMF.png", Palitra News (480p) [Not 24/7]
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 group-title="Грузинский" tvg-logo="https://sul.ge/images/televizia/tvc.png", TVC (1080p)
+#EXTINF:-1 group-title="Грузинский" tvg-logo="https://sul.ge/images/televizia/tvc.png", TV Pirveli (1080p)
 http://31.146.5.178:8087/play/a009/index.m3u8
 
 
