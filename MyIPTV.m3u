@@ -1,5 +1,3 @@
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/NTV-World.png" tvg-id="ntv-mir", НТВ-Мир
-https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/Ren-TV-HD.png", РенТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Общие"  tvg-logo="http://loganet.ru/images/channels/Ren-TV-Int.png", РенТВ Int
