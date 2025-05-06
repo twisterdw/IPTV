@@ -1,0 +1,76 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ТВA 03.05.2025/tva.org.ua 
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History HD [RU-EN-CZ]
+http://95.67.12.81:10619?key=fas-tv.com
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History 2 HD [RU-EN-CZ]
+http://95.67.12.81:10620?key=fas-tv.com
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ЗАГОРОДНЯЯ ЖИЗНЬ
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",POZNAY
+http://185.57.68.33/237/mpegts
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://213.91.178.133:8000/play/a03r
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
+http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic
+http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
+http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",K@TV1
+http://135.181.115.81:8000/play/a04s/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ONE PLANET
+http://95.67.12.82:9088
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Continent E
+http://95.67.12.82:9083
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TravelXp 4K
+http://95.67.12.82:9086/
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
+http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Охота и Рыбалка
+http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Тайны галактики
+http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука
+http://178.124.152.238:8088/nauka
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",RTG TV
+http://178.124.152.238:8088/rtg
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://213.91.178.133:8000/play/a03r
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Охота и рыбалка
+http://213.91.178.133:8000/play/a07r
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Planeta HD
+http://213.91.178.133:8000/play/a03t
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Усадьба
+http://194.158.218.123:8880/Usadba/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Здоровое ТВ
+http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic Wild HD (6 ЯЗЫКОВ)
+http://78.130.250.2:8023/play/a02c/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+http://mfe01.cliptv.az/dash/Viasat_Nature_SDdffd567ua.ism/playlist.mpd
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Big Planet
+http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel+Adventure
+http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
