@@ -4040,7 +4040,7 @@ https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 group-title="Армения" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png",Fresh TV
 https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 #EXTM3U
-group-title="Грузия", Silk Sport
+#EXTINF:-1 group-title="Грузия", Silk Sport
 https://tbs01-edge32.itdc.ge/silk_sport4/tracks-v1a1/mono.m3u8?token=U0wy9qIRdm3H8xaNl4nrISZwYfXOTMU41QCQoqw2WgZizYAZGXccCu1LxPay4H-7H3AYJMTGJw7eaGUyD4D5Itb3FE7SfvmaUgKUQqYZFIG8z3OrKja_ijcCkpeGrSFfpgkzPvN7A0cZBLkrEulWPm0DCz5PbLXnZUE1p6_PUFWrZiZurxfqLWNxfxDNfjqLdMJqB6kF1zwcFk7k93KgF74MTDtL-72D_MAEnFlS0sOgEPTh1SCWCN6Muopm5JvqWC7zd5cOSO--jWcCQUNIP-nvw8RJSghY2roaptIPwmG7ghEMr9jdjksHbc6VPcff
 #EXTINF:-1 group-title="Грузия",Formula TV HD
 https://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
