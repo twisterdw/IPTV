@@ -4039,6 +4039,9 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 group-title="Армения" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png",Fresh TV
 https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
+#EXTM3U
+#EXTINF:-1 group-title="Грузия",MyVideo TV
+https://tv.myvideo.ge/tracks-v1a1/mono.m3u8?token=3nFaaFWZWW665v2oUnPAV1BHkEVkrJFYqPpfNcDnx21MNCH6hsb6RqTW8GyOehi_7aGaf0RImeCiT030CuutHnZhbCn_q0q-5-jXsFzb_VHIZmsb3R9tP3BG5Yur5e5WfuLne9zMEIu9Nw4geS9So2x6TqN2yHBJYWHpqkAw45vkIkm6qpuUrlysmTFppuc6QUu9yF5KfZgrERwi_COeL6r7f4SR1NDaQW1JYjy88svQsNvPkXk6OOaTWlJBGBYHnmodYromz5amytiAFXgE1IuVndMDU1jxooJsCOUB9vTdhOnd2AcDOaj2CpiWwvCx
 #EXTINF:-1 group-title="Грузия",Formula TV HD
 https://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Грузия",Palitranews
