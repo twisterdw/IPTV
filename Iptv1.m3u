@@ -5260,6 +5260,9 @@ http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 ,ТВA 06.05.2025/tva.org.ua/№1/13:30
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
 #EXTINF:-1 group-title="SPORT 🏆",XSPORT HD
 http://cdnua03.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",XSPORT
@@ -5276,6 +5279,8 @@ http://178.124.152.238:8088/khl
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Футбол 3
 http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="SPORT 🏆",ФУТБОЛ 3
+http://185.57.68.33:8091/110/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",МИР БАСКЕТБОЛА
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SPORT 🏆",Viasat Sport
@@ -5295,34 +5300,34 @@ http://193.27.209.122/eurosport1/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport2 HD
 http://193.27.209.122/eurosport2/index.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆", ХОКИ
-https://tv.movielab.pro/177/video.m3u8?token=df435d178f25065e49ae12f7f83fb60d3dd46477-3ce77043567a314766b3a4ce89e0ab15-1746341652-1746255252
+#EXTINF:-1 group-title="SPORT 🏆", ХОК
+https://tv.movielab.pro/177/video.m3u8?token=94fbb2bf181bd74447ef165ac8411728871a54b5-6f0452381bbc44eb1a555dfc9bc44504-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", NBA TV HD
-https://tv.movielab.pro/9984/video.m3u8?token=ab434203addc5ad3b24851f3601fb814f42a81e4-414fcfa9dca12e76de8dc507b89a4dd5-1746341652-1746255252
+https://tv.movielab.pro/9984/video.m3u8?token=d24bc0ce3a2591ee764665839371f824d654037d-beaa2004d4473001756a2f2dc51b2a24-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", Setanta Sports 1
-https://tv.movielab.pro/942/video.m3u8?token=6c09d904e99e7cb0204d1096c1d3aebbd3e5ea17-eaf7c5dde4ae2596402db5ce30cbdb3b-1746341652-1746255252
+https://tv.movielab.pro/942/video.m3u8?token=f2dd490d76fbde6b615bd016fcca965b57b2bcb7-01f6c06e6e26ee6facc0740fbfef1d9b-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", Setanta Sports 2
-https://tv.movielab.pro/943/video.m3u8?token=39abb59007467afc8d817f2b13d6886c430f25a6-40f8ab852af565f6ccb017ae539eeea5-1746341652-1746255252
+https://tv.movielab.pro/943/video.m3u8?token=49c54920644d68ef10ddd22ad400a2e02cc9d8ae-ea996013c2d6f3bfbb866cec82fd1b72-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", Setanta Казахстан
-https://tv.movielab.pro/5094/video.m3u8?token=cc8001c1c6a705bafd3be4751c63859b036f5c47-c03f5a73872728a9e70b5a6b9b27b908-1746341652-1746255252
+https://tv.movielab.pro/5094/video.m3u8?token=a4700bee9f2fdc13ff799e2ad37dbc107843bc9f-7a03cac4e375ddfd288e9eb097775b59-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", Матч HD
-https://tv.movielab.pro/397/video.m3u8?token=ee00f79d9957391f2840173bb878f9968e2fd88c-15dbe48007a9456c11f5f863210326b0-1746341652-1746255252
+https://tv.movielab.pro/397/video.m3u8?token=00f8604d857b5a859486ddb98919131ef7227fc9-c9b6b9348c6816b39ac74c2dda273ee4-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", СПОРТ+ Арена HD
-https://tv.movielab.pro/146/video.m3u8?token=e592d9ae8f5a4705b183ad0afad7c5c30a9d3fdf-078ad301dfd84b1acbf30c7a34a36706-1746341652-1746255252
+https://tv.movielab.pro/146/video.m3u8?token=fd98925ff0c3b643e9f3b15c687f525eff4ad357-4eefa06ee39ef2749d3842bd858dadba-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", СПОРТ+ Игра HD
-https://tv.movielab.pro/268/video.m3u8?token=da9093f217d62dd15ed84d3abac6e28f8d4b7d24-20a279db118878a7fa7538de2968d41c-1746341652-1746255252
+https://tv.movielab.pro/268/video.m3u8?token=5d4afade18e6c75989e6d784ef46a2702da75a92-d5d076aa1f3a322655aa0bbd144da71c-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", СПОРТ+ Премьер HD
-https://tv.movielab.pro/250/video.m3u8?token=1cee2816c50088f02089cdfef095788920bc15cb-c014a04da24d658c22e05fa86fc89c91-1746341652-1746255252
+https://tv.movielab.pro/250/video.m3u8?token=a6a360af2c4fc7126f404d58fdd882943c00175d-453b0700779b34d65a8211533c633682-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", СПОРТ+ Футбол 1 HD
-https://tv.movielab.pro/260/video.m3u8?token=f5f0b55e6bd01b9dca0a351603033cc38c2041c3-8fa663df12188b942fe7c268766a140a-1746341652-1746255252
+https://tv.movielab.pro/260/video.m3u8?token=07dd53faa42d243e3560fe913347617a457aef16-338a324cb47dcf887673e0e96446a5a2-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", СПОРТ+ Футбол 2 HD
-https://tv.movielab.pro/271/video.m3u8?token=1fb2920a7bd4e0e7fa2d0f4bcdccef3f7d79c5ef-c0904cf1e323f0d2c3e0a89d19266671-1746341652-1746255252
+https://tv.movielab.pro/271/video.m3u8?token=cb27a413579f1abc06b2c574e803d0b1111f4069-d6bafec6ccfef42434ec2a5d19b13a64-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", СПОРТ+ Футбол 3 HD
-https://tv.movielab.pro/329/video.m3u8?token=620bde97aa9907f90a2da4d0ac1f05545dbb5806-fd66cd5b610a663e15599393125f49dc-1746341652-1746255252
+https://tv.movielab.pro/329/video.m3u8?token=aeafcc3b988becf17fd8cecfde795e66ecc1e9c8-7b8d55726c2ffc40a9ed7cbda11b3bdd-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", Удар
-https://tv.movielab.pro/4111/video.m3u8?token=41695c41278e656be85ab052528e4176619848b3-005e703322db159afda8ebe35bddc5e3-1746341652-1746255252
+https://tv.movielab.pro/4111/video.m3u8?token=390748674828f840de7595ac801d5cf6a9242ec9-ada884bb6959a75b072b24e8fd1b9edd-1746600837-1746514437
 #EXTINF:-1 group-title="SPORT 🏆", Футбол
-https://tv.movielab.pro/3920/video.m3u8?token=323412181b2126c7b3b46d47480c630499b86dec-633beaac97c6b305b2208e40284d3452-1746341652-1746255252
+https://tv.movielab.pro/3920/video.m3u8?token=45322fd13db34fc7feb1fb410e3207f4473c4503-85fc583bfa8b06e4e8e6172cbffd930a-1746600837-1746514437
 
 #EXTINF:-1 group-title="SPORT 🏆",X-Stream
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
@@ -5518,14 +5523,8 @@ http://78.130.250.2:8023/play/a02u/index.m3u8
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Bein EXTRAS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 1 HD [us] 
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",MLB Network HD [us]
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",CBS Sports Network USA HD
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",NFL Network HD [us]
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",TOP Barca
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Dubai Sports 2
@@ -5536,10 +5535,10 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 https://streamer3.connectto.com/913/mono.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Boxing TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",IMPACT Wrestling
-https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",UNBEATEN
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png"  group-title="SPORT 🏆", TH:TRUE BEINSPORTS 1
+https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Tr VPN VPN SPORT 1
 http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 2
