@@ -4041,9 +4041,7 @@ https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 #EXTM3U
 #EXTINF:-1 group-title="Грузия", Silk Sport
-https://tbs01-edge35.itdc.ge/pirvelitv/index.m3u8?token=P8ux3M01hkDPdj8FqXyheyv0yYPP-3Zpeg_Zv5cf_W6h5bWz_oXkEx1Egq52CzuGhgKrs1rW9MYpkbisepUoC011VXGADN0Kos0SGAQTWBvQW5TEhh_Xk_OE6xPlemygX4LDyaw0YT5VH_38pgzELt2ulVVsZhxg0MSigOX6AvpF3LGoAnGmNarfByx-mRDnjmskJEJDGJ6CxOKFEtmq30h4N6-ru8F9PvBD8xTPvoE3fCmoSpPT6ikMAmsAuc5IyhlIy2EKZKW29_dKDPwEkXtHekGLzFYWMw8VHv0V4QBts5riKP6jQ250fz-hARAJhttps://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Грузия",Palitranews
-https://live.palitranews.ge/hls/palitratv/index.m3u8
+https://tbs01-edge05.itdc.ge/silk_sport4/tracks-v1a1/mono.m3u8?token=Rqg7U71DhP_fRCjXWiU8lZh5KSiXJnmkw4A7ITWbnshxn_h46x5TFXBd1Gj6FUEwVMJniz8jA01ucp42jd3wtmHeNc0UlTfHtDanzEyogpRrwZgG2JBF0GphM-yHhPjlfvNIk_aT8u6ShCcb36LtOzma7SqSYvCFhojSV_3Qrhc_6CSnv08c93RnITj3hnOpfDNWBP1Xs7zl6V4gPU8fGdSbFsGVKb2Zkf9Zyn0MvW8h0xxg6IstvMZvt1BRtr9zWL_P9PNmis8UmrXU02oTIjddotAkZE_et4HsDa2L8u1xpho6dXQPbnCswkNQ3yRphttps://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 group-title="Грузия",1TV HD
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
 #EXTINF:-1 group-title="Грузия",1 არხი განათლება
