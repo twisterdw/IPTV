@@ -4041,8 +4041,7 @@ https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 #EXTM3U
 #EXTINF:-1 group-title="Грузия", Silk Sport
-https://tbs01-edge32.itdc.ge/silk_sport4/tracks-v1a1/mono.m3u8?token=U0wy9qIRdm3H8xaNl4nrISZwYfXOTMU41QCQoqw2WgZizYAZGXccCu1LxPay4H-7H3AYJMTGJw7eaGUyD4D5Itb3FE7SfvmaUgKUQqYZFIG8z3OrKja_ijcCkpeGrSFfpgkzPvN7A0cZBLkrEulWPm0DCz5PbLXnZUE1p6_PUFWrZiZurxfqLWNxfxDNfjqLdMJqB6kF1zwcFk7k93KgF74MTDtL-72D_MAEnFlS0sOgEPTh1SCWCN6Muopm5JvqWC7zd5cOSO--jWcCQUNIP-nvw8RJSghY2roaptIPwmG7ghEMr9jdjksHbc6VPcff
-#EXTINF:-1 group-title="Грузия",Formula TV HD
+https://tbs01-edge38.itdc.ge/silk_sport4/tracks-v1a1/mono.m3u8?token=-sTgt1sIVCbqBr60LacZ01xPQEpeAMITVXm60OBGsQzL_FrLBkHKU2gJ22vWoThhUyuCEMfDYSS1UhY3hn41Hda1N4SFFR4z6qIiy-4pMHgJl6DlIYCECZIB-mZCE_6wxLYlNaXellfaVm2BtSz2JTO1wFcJTA3fuw_-TiUrfLg2jyuVfvUH9RZtHqYEQFQXkh0u9VsdAmOYBofUrJXgrDS9cm3-jFZr8E3sa8FxsanTnDTWLV8jhfXVrqP-0RFqw5_5xpNki8bD_XKrkY-3aodQsNETCaAyMzT8zWGeUIFDcHNewnfvnxABwREt17UX#EXTINF:-1 group-title="Грузия",Formula TV HD
 https://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Грузия",Palitranews
 https://live.palitranews.ge/hls/palitratv/index.m3u8
@@ -4074,7 +4073,7 @@ https://tbs01-edge36.itdc.ge/palitra/tracks-v1a1/mono.m3u8?token=OX5ZfcS_H8hoKgQ
 #EXTINF:-1 group-title="Грузия", Ajara
 https://tbs01-edge34.itdc.ge/adjara/tracks-v1a1/mono.m3u8?token=_Huf5FqWkD__defpBVOe7LM3YYRKciim8O8aUd04oxcGuEHykets_AfaHMrULrBiR91emZxt0Mdxm1y8OeAvXl2--43rJ2L3bdECeDsPPiDTVOy4INPNh3oeEjWwQ40POOrCbVSF9J6ynI3TWORGl-be88ziv8cVtnnFbWTZEConEVquBpqqp384MlJFrfFc5vm1yjmdG5p29soc-4_OxXAf2PDYRv-x9tyXUn3L1yzBLIpIXkfrbNIBnKKeTfYrsIhY6Sr1Cjtf336Xh2JvzFZj1iH4Alka78b8zOlbgl-KPCcWnmrDusYg7yihfy6n
 #EXTINF:-1 group-title="Грузия", Komedi arxi
-https://tbs01-edge37.itdc.ge/comedy/tracks-v1a1/mono.m3u8?token=rcd8C9kfJXy79x6kR6Fd9vmFbWs8LRe2GaZ8vyIBY-JInvOFueSLB4uZOboq3OGQ6nl2om3lNIGIgQgvQ6Eezdw_4Jp_MA-UyXMOp4lfw7flVxPBsNoXozboyb1X89csoQSvob1cBZReHUNyhHMO3jlApv3nyiGZdCVm5BNAdMVgZX03X242tDnssyrbUcE6XGFhAvT5YNsUrzEpPN9DpAC5Yueu20U2ZWar980zDfj-F38FF2Nkj0FQjk_KRfacfz1wvmZ5Gg49DmgF4nip4dlTjmhU5sTbw6L0Q45x-jcMQLCfgAswLaZ4MQ8pYpTV
+https://tbs01-edge36.itdc.ge/comedy/tracks-v1a1/2025/05/07/09/50/52-04000.ts?token=ESqWljEmUm-RHFcQi-5PgAsBzaKZCuEA695yNg0XPXlHY03Hh3nPTsil4_wvb6jlAlEkbXveb2VGXAbBq-H0Gla7eJx_6wFnjeom3U1PsX0nJJW1LYbXTyyJNCXgmoOr4Ol8aiKigW6PDlyl1mn5AiVlGomayT-dCHnLZ5ak1W3o45T2bym_GcGsLUTQPsDwp_MwEfd9HYatJefGzAbDLpGVCeCsW6OwYR_WdNkIxDJjYyKQaitUMFjFDZI1hzqWUuMZMwEK3ggZ52AesN2BaW7eh4HOpalKRJg2xkpH-88k3O0gzVgKW7uC9JwRSw0I
 #EXTINF:-1 group-title="Грузия", Marao
 https://tbs01-edge12.itdc.ge/marao/tracks-v1a1/mono.m3u8?token=wftRkZ-bUvRMfNdTpGtUriocj4_xzLLiDrZF8M07SYPMh0k5uAnIGKsyhdXWnX1iilowVqKr5HSXKO6Hu0TL3NUTbqMsyrKo2AfrRgTqzHj6B6KHPoDepevEYMt_zv9W0Db9zoFuee6i2nDtA-4WOS38qJsPkebq_g5FOv575mIA21aDDUakNpIcXTnb9ahV92ykEhqrwsk2JVMiKSWTNelHqWWqzZrPyBt7wlJaYZp8GtuSd1RLt-wQu0ewaCnYLjb0Tw8B4zvo2Ali71_l9qGEdL9Y0KmY-e2XoK1I2pQe0L2JqI0JIVCsLEDyYlRe
 #EXTINF:-1 group-title="Грузия", Ragbi TV
