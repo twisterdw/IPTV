@@ -1307,3 +1307,139 @@ https://tv.cdn.xsg.ge/imedihd/index.m3u8
 https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 group-title="Грузинский" tvg-logo="https://sul.ge/images/televizia/tvc.png", TV Pirveli (1080p)
 http://31.146.5.178:8087/play/a009/index.m3u8
+
+
+#EXTINF:-1 ,Смотрим 100% Любовь HD
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+#EXTINF:-1 ,Смотрим 100% Мужское HD
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 ,Смотрим 100% Классика HD
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1,Смотрим 100% Праздник HD
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 ,Смотрим 100% Детское HD
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 ,Смотрим 100% Факты HD
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1,НТВ Следствие вели
+cdn.iptvcinema.ru/lb1/sledstvie.m3u8?/index.m3u8
+#EXTINF:-1,НТВ Шеф
+cdn.iptvcinema.ru/lb1/shef.m3u8?/index.m3u8
+#EXTINF:-1,НТВ Первый отдел
+cdn.iptvcinema.ru/lb1/perviyotdel.m3u8?/index.m3u8
+#EXTINF:-1,НТВ Балабол
+cdn.iptvcinema.ru/lb1/balabol.m3u8?/index.m3u8
+#EXTINF:-1,НТВ 5 Минут тишины
+cdn.iptvcinema.ru/lb1/5minut.m3u8?/index.m3u8
+#EXTINF:-1,НТВ Невский
+cdn.iptvcinema.ru/lb1/nevskiy.m3u8?/index.m3u8
+#EXTINF:-1,НТВ Пёс
+cdn.iptvcinema.ru/lb1/pyos.m3u8?/index.m3u8
+#EXTINF:-1,НТВ Скорая помощь
+cdn.iptvcinema.ru/lb1/skorayapomosh.m3u8?/index.m3u8
+#EXTINF:-1,НТВ HD
+http://194.152.35.17/ntv/index.m3u8
+#EXTINF:-1,Карусель
+http://194.152.35.17/Karusel/index.m3u8
+#EXTINF:-1,ОТР HD
+http://194.152.35.17/otr/index.m3u8
+#EXTINF:-1,ТВЦ
+http://194.152.35.17/tvc/index.m3u8
+#EXTINF:-1,СТС
+http://194.152.35.17/sts/index.m3u8
+#EXTINF:-1,Звезда
+http://194.152.35.17/zvezda/index.m3u8
+#EXTINF:-1,ТНТ
+http://194.152.35.17/tnt/index.m3u8
+#EXTINF:-1,Че! (Москва)
+http://194.152.35.17/che/index.m3u8
+#EXTINF:-1,ТНТ4 (Москва)
+http://194.152.35.17/tnt4/index.m3u8
+#EXTINF:-1,Ani
+http://194.152.35.17/Ani/index.m3u8
+#EXTINF:-1,Мульт
+http://194.152.35.17/Mult/index.m3u8
+#EXTINF:-1,ТВ3
+http://194.152.35.17/tv-3/index.m3u8
+#EXTINF:-1,Пятница!
+http://194.152.35.17/Pyatnica/index.m3u8
+#EXTINF:-1,РЕН ТВ
+http://194.152.35.17/ren_tv/index.m3u8
+#EXTINF:-1,Amidia Hit HD
+http://194.152.35.17/amedia-hit/index.m3u8
+#EXTINF:-1,Cinema
+http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1,Kino TV
+http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1,Gulli Girl
+http://194.152.35.17/gulli_girl/index.m3u8
+#EXTINF:-1,2x2
+http://194.152.35.17/2x2/index.m3u8
+#EXTINF:-1,mama
+http://194.152.35.17/mama/index.m3u8
+#EXTINF:-1,tiji
+http://194.152.35.17/tiji/index.m3u8
+#EXTINF:-1,match
+http://194.152.35.17/match/index.m3u8
+#EXTINF:-1,Пятый Канал
+http://94.43.1.138:8081/5channel/index.m3u8
+#EXTINF:-1,МИР24
+http://94.43.1.138:8081/MIR24/index.m3u8
+#EXTINF:-1,Ю ТВ
+http://94.43.1.138:8081/U/index.m3u8
+#EXTINF:-1,СТС
+http://94.43.1.138:8081/CTC/index.m3u8
+#EXTINF:-1,РенТВ int
+http://94.43.1.138:8081/RENTV/index.m3u8
+#EXTINF:-1,НТВ ХИТ
+http://94.43.1.138:8081/ntvhit/index.m3u8
+#EXTINF:-1,Зоопарк
+http://94.43.1.138:8081/zoopark/index.m3u8
+#EXTINF:-1,Наука
+http://94.43.1.138:8081/nauka/index.m3u8
+#EXTINF:-1,Viju+ History
+http://94.43.1.138:8081/viasathistory/index.m3u8
+#EXTINF:-1,ВКУС ТВ
+http://94.43.1.138:8081/vkus/index.m3u8
+#EXTINF:-1,Доктор
+http://94.43.1.138:8081/doktor/index.m3u8
+#EXTINF:-1,Viju+ Megahit HD
+http://94.43.1.138:8081/vipmegahit/index.m3u8
+#EXTINF:-1,Viju+ Comedy HD
+http://94.43.1.138:8081/vipcomedy/index.m3u8
+#EXTINF:-1,Viju+ Premiere HD
+http://94.43.1.138:8081/vippremiera/index.m3u8
+#EXTINF:-1,.red
+http://94.43.1.138:8081/red/index.m3u8
+#EXTINF:-1,Eurokino
+http://94.43.1.138:8081/eurokino/index.m3u8
+#EXTINF:-1,TVXXI
+http://94.43.1.138:8081/TVXXI/index.m3u8
+#EXTINF:-1,Viju TV1000
+http://94.43.1.138:8081/tv1000/index.m3u8
+#EXTINF:-1,Viju TV1000 Action
+http://94.43.1.138:8081/tv1000action/index.m3u8
+#EXTINF:-1,НСТ
+http://94.43.1.138:8081/nst/index.m3u8
+#EXTINF:-1,SHOT TV
+http://94.43.1.138:8081/shottv/index.m3u8
+#EXTINF:-1,Cinema
+http://94.43.1.138:8081/cinema/index.m3u8
+#EXTINF:-1,Техно24
+http://94.43.1.138:8081/t24/index.m3u8
+#EXTINF:-1,Мосфилм
+http://94.43.1.138:8081/mosfilm/index.m3u8
+#EXTINF:-1,Bridge TV
+http://94.43.1.138:8081/BRIDGE/index.m3u8
+#EXTINF:-1, Bridge TV ROCK
+http://94.43.1.138:8081/BRIDGEROCK/index.m3u8
+#EXTINF:-1,Матч! ТВ
+http://94.43.1.138:8081/matchtv/index.m3u8
+#EXTINF:-1, Viju+ Sport
+http://94.43.1.138:8081/viasatsport/index.m3u8
+#EXTINF:-1,Setanta Sports 1 HD (GEO)
+http://94.43.1.138:8081/foodnetwork/index.m3u8
+#EXTINF:-1, Setanta Sports 2 HD (GEO)
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:-1,Baby Time
+http://94.43.1.138:8081/babytime/index.m3u8
