@@ -1,136 +1,4 @@
 ##EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 group-title="Русские",ПЕРВЫЙ КАНАЛ
-http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:-1 group-title="Русские",Россия 1
-http://31.131.141.195:8000/play/1020/index.m3u8
-#EXTINF:-1 group-title="Русские",Матч!
-http://31.131.141.195:8000/play/1030/index.m3u8
-#EXTINF:-1 group-title="Русские",НТВ
-http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 group-title="Русские",Пятый канал
-http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:-1 group-title="Русские",Россия К
-http://31.131.141.195:8000/play/1060/index.m3u8
-#EXTINF:-1 group-title="Русские",Россия 24
-http://31.131.141.195:8000/play/1070/index.m3u8
-#EXTINF:-1 group-title="Русские",Смотрим 100% Любовь HD
-https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
-#EXTINF:-1 group-title="Русские",Смотрим 100% Мужское HD
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 group-title="Русские",Смотрим 100% Классика HD
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1 group-title="Русские",Смотрим 100% Праздник HD
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1 group-title="Русские",Смотрим 100% Детское HD
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1 group-title="Русские",Смотрим 100% Факты HD
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1 group-title="Русские",НТВ HD
-http://194.152.35.17/ntv/index.m3u8
-#EXTINF:-1 group-title="Русские",Карусель
-http://194.152.35.17/Karusel/index.m3u8
-#EXTINF:-1 group-title="Русские",ТВЦ
-http://194.152.35.17/tvc/index.m3u8
-#EXTINF:-1 group-title="Русские",СТС
-http://194.152.35.17/sts/index.m3u8
-#EXTINF:-1 group-title="Русские",Звезда
-http://194.152.35.17/zvezda/index.m3u8
-#EXTINF:-1 group-title="Русские",ТНТ
-http://194.152.35.17/tnt/index.m3u8
-#EXTINF:-1 group-title="Русские",ТНТ4 (Москва)
-http://194.152.35.17/tnt4/index.m3u8
-#EXTINF:-1 group-title="Русские",Мульт
-http://194.152.35.17/Mult/index.m3u8
-#EXTINF:-1 group-title="Русские",ТВ3
-http://194.152.35.17/tv-3/index.m3u8
-#EXTINF:-1 group-title="Русские",Пятница!
-http://194.152.35.17/Pyatnica/index.m3u8
-#EXTINF:-1 group-title="Русские",РЕН ТВ
-http://194.152.35.17/ren_tv/index.m3u8
-#EXTINF:-1 group-title="Русские",Amidia Hit HD
-http://194.152.35.17/amedia-hit/index.m3u8
-#EXTINF:-1 group-title="Русские",Cinema
-http://194.152.35.17/cinema/index.m3u8
-#EXTINF:-1 group-title="Русские",Kino TV
-http://194.152.35.17/kino-tv/index.m3u8
-#EXTINF:-1 group-title="Русские",Gulli Girl
-http://194.152.35.17/gulli_girl/index.m3u8
-#EXTINF:-1 group-title="Русские",2x2
-http://194.152.35.17/2x2/index.m3u8
-#EXTINF:-1 group-title="Русские",mama
-http://194.152.35.17/mama/index.m3u8
-#EXTINF:-1 group-title="Русские",tiji
-http://194.152.35.17/tiji/index.m3u8
-#EXTINF:-1 group-title="Русские",match
-http://194.152.35.17/match/index.m3u8
-#EXTINF:-1 group-title="Русские",Пятый Канал
-http://94.43.1.138:8081/5channel/index.m3u8
-#EXTINF:-1 group-title="Русские",МИР24
-http://94.43.1.138:8081/MIR24/index.m3u8
-#EXTINF:-1 group-title="Русские",Ю ТВ
-http://94.43.1.138:8081/U/index.m3u8
-#EXTINF:-1 group-title="Русские",СТС
-http://94.43.1.138:8081/CTC/index.m3u8
-#EXTINF:-1 group-title="Русские",РенТВ int
-http://94.43.1.138:8081/RENTV/index.m3u8
-#EXTINF:-1 group-title="Русские",НТВ ХИТ
-http://94.43.1.138:8081/ntvhit/index.m3u8
-#EXTINF:-1 group-title="Русские",Зоопарк
-http://94.43.1.138:8081/zoopark/index.m3u8
-#EXTINF:-1 group-title="Русские",Наука
-http://94.43.1.138:8081/nauka/index.m3u8
-#EXTINF:-1 group-title="Русские",Viju+ History
-http://94.43.1.138:8081/viasathistory/index.m3u8
-#EXTINF:-1 group-title="Русские",ВКУС ТВ
-http://94.43.1.138:8081/vkus/index.m3u8
-#EXTINF:-1 group-title="Русские",Доктор
-http://94.43.1.138:8081/doktor/index.m3u8
-#EXTINF:-1 group-title="Русские",Viju+ Megahit HD
-http://94.43.1.138:8081/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="Русские",Viju+ Comedy HD
-http://94.43.1.138:8081/vipcomedy/index.m3u8
-#EXTINF:-1 group-title="Русские",Viju+ Premiere HD
-http://94.43.1.138:8081/vippremiera/index.m3u8
-#EXTINF:-1 group-title="Русские",.red
-http://94.43.1.138:8081/red/index.m3u8
-#EXTINF:-1 group-title="Русские",Eurokino
-http://94.43.1.138:8081/eurokino/index.m3u8
-#EXTINF:-1 group-title="Русские",TVXXI
-http://94.43.1.138:8081/TVXXI/index.m3u8
-#EXTINF:-1 group-title="Русские",Viju TV1000
-http://94.43.1.138:8081/tv1000/index.m3u8
-#EXTINF:-1 group-title="Русские",Viju TV1000 Action
-http://94.43.1.138:8081/tv1000action/index.m3u8
-#EXTINF:-1 group-title="Русские",НСТ
-http://94.43.1.138:8081/nst/index.m3u8
-#EXTINF:-1 group-title="Русские",SHOT TV
-http://94.43.1.138:8081/shottv/index.m3u8
-#EXTINF:-1 group-title="Русские",Cinema
-http://94.43.1.138:8081/cinema/index.m3u8
-#EXTINF:-1 group-title="Русские",Техно24
-http://94.43.1.138:8081/t24/index.m3u8
-#EXTINF:-1 group-title="Русские",Мосфилм
-http://94.43.1.138:8081/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Русские",Bridge TV
-http://94.43.1.138:8081/BRIDGE/index.m3u8
-#EXTINF:-1 group-title="Русские", Bridge TV ROCK
-http://94.43.1.138:8081/BRIDGEROCK/index.m3u8
-#EXTINF:-1 group-title="Русские",Матч! ТВ
-http://94.43.1.138:8081/matchtv/index.m3u8
-#EXTINF:-1 group-title="Русские", Viju+ Sport
-http://94.43.1.138:8081/viasatsport/index.m3u8
-#EXTINF:-1 group-title="Русские",Setanta Sports 1 HD (GEO)
-http://94.43.1.138:8081/foodnetwork/index.m3u8
-#EXTINF:-1 group-title="Русские",Карусель
-http://31.131.141.195:8000/play/1080/index.m3u8
-#EXTINF:-1 group-title="Русские",ОТР
-http://31.131.141.195:8000/play/1090/index.m3u8
-#EXTINF:-1 group-title="Русские",ТВЦ
-http://31.131.141.195:8000/play/1100/index.m3u8
-#EXTINF:-1 group-title="Русские",СТС
-http://31.131.141.195:8000/play/1130/index.m3u8
-
-
 #EXTINF:-1 group-title="Еще каналы",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Еще каналы",Россия 1
@@ -277,3 +145,136 @@ https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 #EXTINF:-1 group-title="Еще каналы",Шансон ТВ
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
+
+
+
+#EXTINF:-1 group-title="Русские",ПЕРВЫЙ КАНАЛ
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Русские",Россия 1
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 group-title="Русские",Матч!
+http://31.131.141.195:8000/play/1030/index.m3u8
+#EXTINF:-1 group-title="Русские",НТВ
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 group-title="Русские",Пятый канал
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 group-title="Русские",Россия К
+http://31.131.141.195:8000/play/1060/index.m3u8
+#EXTINF:-1 group-title="Русские",Россия 24
+http://31.131.141.195:8000/play/1070/index.m3u8
+#EXTINF:-1 group-title="Русские",Смотрим 100% Любовь HD
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+#EXTINF:-1 group-title="Русские",Смотрим 100% Мужское HD
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="Русские",Смотрим 100% Классика HD
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="Русские",Смотрим 100% Праздник HD
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="Русские",Смотрим 100% Детское HD
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="Русские",Смотрим 100% Факты HD
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 group-title="Русские",НТВ HD
+http://194.152.35.17/ntv/index.m3u8
+#EXTINF:-1 group-title="Русские",Карусель
+http://194.152.35.17/Karusel/index.m3u8
+#EXTINF:-1 group-title="Русские",ТВЦ
+http://194.152.35.17/tvc/index.m3u8
+#EXTINF:-1 group-title="Русские",СТС
+http://194.152.35.17/sts/index.m3u8
+#EXTINF:-1 group-title="Русские",Звезда
+http://194.152.35.17/zvezda/index.m3u8
+#EXTINF:-1 group-title="Русские",ТНТ
+http://194.152.35.17/tnt/index.m3u8
+#EXTINF:-1 group-title="Русские",ТНТ4 (Москва)
+http://194.152.35.17/tnt4/index.m3u8
+#EXTINF:-1 group-title="Русские",Мульт
+http://194.152.35.17/Mult/index.m3u8
+#EXTINF:-1 group-title="Русские",ТВ3
+http://194.152.35.17/tv-3/index.m3u8
+#EXTINF:-1 group-title="Русские",Пятница!
+http://194.152.35.17/Pyatnica/index.m3u8
+#EXTINF:-1 group-title="Русские",РЕН ТВ
+http://194.152.35.17/ren_tv/index.m3u8
+#EXTINF:-1 group-title="Русские",Amidia Hit HD
+http://194.152.35.17/amedia-hit/index.m3u8
+#EXTINF:-1 group-title="Русские",Cinema
+http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 group-title="Русские",Kino TV
+http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1 group-title="Русские",Gulli Girl
+http://194.152.35.17/gulli_girl/index.m3u8
+#EXTINF:-1 group-title="Русские",2x2
+http://194.152.35.17/2x2/index.m3u8
+#EXTINF:-1 group-title="Русские",mama
+http://194.152.35.17/mama/index.m3u8
+#EXTINF:-1 group-title="Русские",tiji
+http://194.152.35.17/tiji/index.m3u8
+#EXTINF:-1 group-title="Русские",match
+http://194.152.35.17/match/index.m3u8
+#EXTINF:-1 group-title="Русские",Пятый Канал
+http://94.43.1.138:8081/5channel/index.m3u8
+#EXTINF:-1 group-title="Русские",МИР24
+http://94.43.1.138:8081/MIR24/index.m3u8
+#EXTINF:-1 group-title="Русские",Ю ТВ
+http://94.43.1.138:8081/U/index.m3u8
+#EXTINF:-1 group-title="Русские",СТС
+http://94.43.1.138:8081/CTC/index.m3u8
+#EXTINF:-1 group-title="Русские",РенТВ int
+http://94.43.1.138:8081/RENTV/index.m3u8
+#EXTINF:-1 group-title="Русские",НТВ ХИТ
+http://94.43.1.138:8081/ntvhit/index.m3u8
+#EXTINF:-1 group-title="Русские",Зоопарк
+http://94.43.1.138:8081/zoopark/index.m3u8
+#EXTINF:-1 group-title="Русские",Наука
+http://94.43.1.138:8081/nauka/index.m3u8
+#EXTINF:-1 group-title="Русские",Viju+ History
+http://94.43.1.138:8081/viasathistory/index.m3u8
+#EXTINF:-1 group-title="Русские",ВКУС ТВ
+http://94.43.1.138:8081/vkus/index.m3u8
+#EXTINF:-1 group-title="Русские",Доктор
+http://94.43.1.138:8081/doktor/index.m3u8
+#EXTINF:-1 group-title="Русские",Viju+ Megahit HD
+http://94.43.1.138:8081/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="Русские",Viju+ Comedy HD
+http://94.43.1.138:8081/vipcomedy/index.m3u8
+#EXTINF:-1 group-title="Русские",Viju+ Premiere HD
+http://94.43.1.138:8081/vippremiera/index.m3u8
+#EXTINF:-1 group-title="Русские",.red
+http://94.43.1.138:8081/red/index.m3u8
+#EXTINF:-1 group-title="Русские",Eurokino
+http://94.43.1.138:8081/eurokino/index.m3u8
+#EXTINF:-1 group-title="Русские",TVXXI
+http://94.43.1.138:8081/TVXXI/index.m3u8
+#EXTINF:-1 group-title="Русские",Viju TV1000
+http://94.43.1.138:8081/tv1000/index.m3u8
+#EXTINF:-1 group-title="Русские",Viju TV1000 Action
+http://94.43.1.138:8081/tv1000action/index.m3u8
+#EXTINF:-1 group-title="Русские",НСТ
+http://94.43.1.138:8081/nst/index.m3u8
+#EXTINF:-1 group-title="Русские",SHOT TV
+http://94.43.1.138:8081/shottv/index.m3u8
+#EXTINF:-1 group-title="Русские",Cinema
+http://94.43.1.138:8081/cinema/index.m3u8
+#EXTINF:-1 group-title="Русские",Техно24
+http://94.43.1.138:8081/t24/index.m3u8
+#EXTINF:-1 group-title="Русские",Мосфилм
+http://94.43.1.138:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Русские",Bridge TV
+http://94.43.1.138:8081/BRIDGE/index.m3u8
+#EXTINF:-1 group-title="Русские", Bridge TV ROCK
+http://94.43.1.138:8081/BRIDGEROCK/index.m3u8
+#EXTINF:-1 group-title="Русские",Матч! ТВ
+http://94.43.1.138:8081/matchtv/index.m3u8
+#EXTINF:-1 group-title="Русские", Viju+ Sport
+http://94.43.1.138:8081/viasatsport/index.m3u8
+#EXTINF:-1 group-title="Русские",Setanta Sports 1 HD (GEO)
+http://94.43.1.138:8081/foodnetwork/index.m3u8
+#EXTINF:-1 group-title="Русские",Карусель
+http://31.131.141.195:8000/play/1080/index.m3u8
+#EXTINF:-1 group-title="Русские",ОТР
+http://31.131.141.195:8000/play/1090/index.m3u8
+#EXTINF:-1 group-title="Русские",ТВЦ
+http://31.131.141.195:8000/play/1100/index.m3u8
+#EXTINF:-1 group-title="Русские",СТС
+http://31.131.141.195:8000/play/1130/index.m3u8
