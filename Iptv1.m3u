@@ -1,6 +1,18 @@
 ##EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 group-title="Русские" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал HD 
-https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="Русские",ПЕРВЫЙ КАНАЛ
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Русские",Россия 1
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 group-title="Русские",Матч!
+http://31.131.141.195:8000/play/1030/index.m3u8
+#EXTINF:-1 group-title="Русские",НТВ
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 group-title="Русские",Пятый канал
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 group-title="Русские",Россия К
+http://31.131.141.195:8000/play/1060/index.m3u8
+#EXTINF:-1 group-title="Русские",Россия 24
+http://31.131.141.195:8000/play/1070/index.m3u8
 #EXTINF:-1 group-title="Русские",Смотрим 100% Любовь HD
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
 #EXTINF:-1 group-title="Русские",Смотрим 100% Мужское HD
@@ -109,20 +121,6 @@ http://94.43.1.138:8081/matchtv/index.m3u8
 http://94.43.1.138:8081/viasatsport/index.m3u8
 #EXTINF:-1 group-title="Русские",Setanta Sports 1 HD (GEO)
 http://94.43.1.138:8081/foodnetwork/index.m3u8
-#EXTINF:-1 group-title="Русские",ПЕРВЫЙ КАНАЛ
-http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:-1 group-title="Русские",Россия 1
-http://31.131.141.195:8000/play/1020/index.m3u8
-#EXTINF:-1 group-title="Русские",Матч!
-http://31.131.141.195:8000/play/1030/index.m3u8
-#EXTINF:-1 group-title="Русские",НТВ
-http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 group-title="Русские",Пятый канал
-http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:-1 group-title="Русские",Россия К
-http://31.131.141.195:8000/play/1060/index.m3u8
-#EXTINF:-1 group-title="Русские",Россия 24
-http://31.131.141.195:8000/play/1070/index.m3u8
 #EXTINF:-1 group-title="Русские",Карусель
 http://31.131.141.195:8000/play/1080/index.m3u8
 #EXTINF:-1 group-title="Русские",ОТР
