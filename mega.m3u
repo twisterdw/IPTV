@@ -1443,3 +1443,25 @@ http://94.43.1.138:8081/foodnetwork/index.m3u8
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1,Baby Time
 http://94.43.1.138:8081/babytime/index.m3u8
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1,Россия 1
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1,Матч!
+http://31.131.141.195:8000/play/1030/index.m3u8
+#EXTINF:-1,НТВ
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1,Пятый канал
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1,Россия К
+http://31.131.141.195:8000/play/1060/index.m3u8
+#EXTINF:-1,Россия 24
+http://31.131.141.195:8000/play/1070/index.m3u8
+#EXTINF:-1,Карусель
+http://31.131.141.195:8000/play/1080/index.m3u8
+#EXTINF:-1,ОТР
+http://31.131.141.195:8000/play/1090/index.m3u8
+#EXTINF:-1,ТВЦ
+http://31.131.141.195:8000/play/1100/index.m3u8
+#EXTINF:-1,СТС
+http://31.131.141.195:8000/play/1130/index.m3u8
