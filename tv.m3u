@@ -13,22 +13,6 @@ https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 group-title="Русские",Смотрим 100% Факты HD
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1 group-title="Русские",НТВ Следствие вели
-cdn.iptvcinema.ru/lb1/sledstvie.m3u8?/index.m3u8
-#EXTINF:-1 group-title="Русские",НТВ Шеф
-cdn.iptvcinema.ru/lb1/shef.m3u8?/index.m3u8
-#EXTINF:-1 group-title="Русские",НТВ Первый отдел
-cdn.iptvcinema.ru/lb1/perviyotdel.m3u8?/index.m3u8
-#EXTINF:-1 group-title="Русские",НТВ Балабол
-cdn.iptvcinema.ru/lb1/balabol.m3u8?/index.m3u8
-#EXTINF:-1 group-title="Русские",НТВ 5 Минут тишины
-cdn.iptvcinema.ru/lb1/5minut.m3u8?/index.m3u8
-#EXTINF:-1 group-title="Русские",НТВ Невский
-cdn.iptvcinema.ru/lb1/nevskiy.m3u8?/index.m3u8
-#EXTINF:-1 group-title="Русские",НТВ Пёс
-cdn.iptvcinema.ru/lb1/pyos.m3u8?/index.m3u8
-#EXTINF:-1 group-title="Русские",НТВ Скорая помощь
-cdn.iptvcinema.ru/lb1/skorayapomosh.m3u8?/index.m3u8
 #EXTINF:-1 group-title="Русские",НТВ HD
 http://194.152.35.17/ntv/index.m3u8
 #EXTINF:-1 group-title="Русские",Карусель
