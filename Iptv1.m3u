@@ -1,6 +1,6 @@
 ##EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="Еще каналы",Первый канал
-https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
+http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="Еще каналы",Россия 1
 https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
 #EXTINF:-1 group-title="Еще каналы",Россия 24
