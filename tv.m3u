@@ -281,274 +281,93 @@ https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 
 
-#EXTINF:-1 group-title="Грузинские",Imedi hd
-tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Грузинские",1tv
-tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Грузинские",2tv
-tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Грузинские",Imedi hd
-tv.nucast.tv/lb/imedihd/mono.m3u8
-#EXTINF:-1 group-title="Грузинские",1tv
-tv.nucast.tv/lb/gpb-1tv/index.m3u8
-#EXTINF:-1 group-title="Грузинские",2tv
-tv.nucast.tv/lb/gpb-2tv/index.m3u8
-#EXTINF:-1 group-title="Грузинские",Imedi hd
-ams01.cdn.xsg.ge/imedihd/mono.m3u8
-#EXTINF:-1 group-title="Грузинские",1tv
-ams01.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Грузинские",2tv
-ams01.cdn.xsg.ge/gpb-2tv/tracks-v1a1/index.m3u8
-
-
-#EXTINF:-1 group-title="++", VIP Premiere
-93.84.105.184:443/vippremiere
-#EXTINF:-1 group-title="++", Ретро
-93.84.105.184:443/retro
-#EXTINF:-1 group-title="++", Победа
-93.84.105.184:443/pobeda
-#EXTINF:-1 group-title="++",Дом Кино
-93.84.105.184:443/domkino
-#EXTINF:-1 group-title="++",Hollywood
-93.84.105.184:443/hollywoodsd
-#EXTINF:-1 group-title="++", Перец
-93.84.105.184:443/perets
-#EXTINF:-1 group-title="++", Телекафе
-93.84.105.184:443/telecafe
-#EXTINF:-1 group-title="++",Океан
-93.84.105.184:443/oceantv
-#EXTINF:-1 group-title="++",Моя планета
-93.84.105.184:443/myplanet
-#EXTINF:-1 group-title="++", Бобер
-93.84.105.184:443/bober
-#EXTINF:-1 group-title="++",Наука
-93.84.105.184:443/nauka
-#EXTINF:-1 group-title="++", Da Vinci
-93.84.105.184:443/davinci
-#EXTINF:-1 group-title="++", O
-93.84.105.184:443/O
-#EXTINF:-1 group-title="++",Беларусь 1 HD
-93.84.105.184:443/belarus1hd
-#EXTINF:-1 group-title="++",Беларусь 3 HD
-93.84.105.184:443/belarus2hd
-#EXTINF:-1 group-title="++",Беларусь 2 HD
-93.84.105.184:443/belarus5hd
-#EXTINF:-1 group-title="++",РТР Беларусь HD
-93.84.105.184:443/rtrbelarushd
-#EXTINF:-1 group-title="++",НТВ Беларусь
-93.84.105.184:443/ntvbelarussd
-#EXTINF:-1 group-title="++",СТВ HD
-93.84.105.184:443/stvhd
-#EXTINF:-1 group-title="++",МИР
-93.84.105.184:443/mirhd
-#EXTINF:-1 group-title="++",ОНТ HD
-93.84.105.184:443/onthd
-
-#EXTINF:-1 group-title="++",НАШЕ НОВОЕ КИНО
-217.113.16.23/Nashenovoekino/index.m3u8
-#EXTINF:-1 group-title="++",FOX HD
-217.113.16.23/FOXHD/index.m3u8
-#EXTINF:-1 group-title="++",КИНОКОМЕДИЯ
-217.113.16.23/Kinokomedia/index.m3u8
-#EXTINF:-1 group-title="++",Русская Комедия
-217.113.16.23/Komedia/index.m3u8
-#EXTINF:-1 group-title="++",Bollywood HD
-217.113.16.23/Bollywood/index.m3u8
-#EXTINF:-1 group-title="++",Amedia 1
-217.113.16.23/Amedia1/index.m3u8
-#EXTINF:-1 group-title="++",Amedia 2
-217.113.16.23/Amedia2/index.m3u8
-#EXTINF:-1 group-title="++",Amedia Premium HD
-217.113.16.23/amediapremium/index.m3u8
-#EXTINF:-1 group-title="++",Amedia Hit HD
-217.113.16.23/Amediahithd/index.m3u8
-#EXTINF:-1 group-title="++",.Sci-Fi
-217.113.16.23/Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="++",.red
-217.113.16.23/redhd/index.m3u8
-#EXTINF:-1 group-title="++",.black
-217.113.16.23/black/index.m3u8
-#EXTINF:-1 group-title="++",Еврокино
-217.113.16.23/eurokino/index.m3u8
-#EXTINF:-1 group-title="++",Дом кино
-217.113.16.23/Domkino/index.m3u8
-#EXTINF:-1 group-title="++",Star Family
-217.113.16.23/StarFamily/index.m3u8
-#EXTINF:-1 group-title="++",SHOT TV
-217.113.16.23/SHOTTV/index.m3u8
-#EXTINF:-1 group-title="++",Hollywood
-217.113.16.23/hollywood/index.m3u8
-#EXTINF:-1 group-title="++",FOX HD
-217.113.16.23/FOXHD/index.m3u8
-#EXTINF:-1 group-title="++",Kinoman HD
-217.113.16.23/Kinoman/index.m3u8
-#EXTINF:-1 group-title="++",Filmzon
-217.113.16.23/Filmzon/index.m3u8
-#EXTINF:-1 group-title="++",Победа
-217.113.16.23/pobeda/index.m3u8
-#EXTINF:-1 group-title="++",Комедия
-217.113.16.23/Komedia/index.m3u8
-#EXTINF:-1 group-title="++",Мужское кино
-217.113.16.23/mujskoekino/index.m3u8
-#EXTINF:-1 group-title="++",Родное кино
-217.113.16.23/rodnoekino/index.m3u8
-#EXTINF:-1 group-title="++",Кинохит HD
-217.113.16.23/KinoxitHD/index.m3u8
-#EXTINF:-1 group-title="++",Киноужас
-217.113.16.23/Kinoujas/index.m3u8
-#EXTINF:-1 group-title="++",Киносвидание
-217.113.16.23/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="++",Киномикс
-217.113.16.23/kinomix/index.m3u8
-#EXTINF:-1 group-title="++",Кино ТВ HD
-217.113.16.23/kinotvhd/index.m3u8
-#EXTINF:-1 group-title="++",Кинеко
-217.113.16.23/kineko/index.m3u8
-#EXTINF:-1 group-title="++",Иллюзион+
-217.113.16.23/iluzionplus/index.m3u8
-#EXTINF:-1 group-title="++",НТВ Хит
-217.113.16.23/ntvxit/index.m3u8
-#EXTINF:-1 group-title="++",НТВ Сериал
-217.113.16.23/ntvserial/index.m3u8
-#EXTINF:-1 group-title="++",ТНТ4
-217.113.16.23/tnt4/index.m3u8
-#EXTINF:-1 group-title="++",Глазами туриста
-217.113.16.23/Glazamiturista/index.m3u8
-#EXTINF:-1 group-title="++", Совершенно секретно
-217.113.16.23/Sovershennosekretno/index.m3u8
-#EXTINF:-1 group-title="++", Travel+Adventure
-217.113.16.23/TravelAdventure/index.m3u8
-#EXTINF:-1 group-title="++",АРСЕНАЛ HD
-217.113.16.23/arsenal/index.m3u8
-#EXTINF:-1 group-title="++",Animal Planet
-217.113.16.23/animalplanet/index.m3u8
-#EXTINF:-1 group-title="++",Живая Планета
-217.113.16.23/jivayaplaneta/index.m3u8
-#EXTINF:-1 group-title="++",НТВ Право
-217.113.16.23/ntvpravo/index.m3u8
-#EXTINF:-1 group-title="++",НТВ Стиль
-217.113.16.23/ntvstil/index.m3u8
-#EXTINF:-1 group-title="++",Дикая охота
-217.113.16.23/dikayaoxota/index.m3u8
-#EXTINF:-1 group-title="++",Истоия
-217.113.16.23/Istoria/index.m3u8
-#EXTINF:-1 group-title="++",Travel+Adventure
-217.113.16.23/TravelAdventure/index.m3u8
-#EXTINF:-1 group-title="++",Terra HD
-217.113.16.23/TerraHD/index.m3u8
-#EXTINF:-1 group-title="++",Ocean TV
-217.113.16.23/oceantv/index.m3u8
-#EXTINF:-1 group-title="++",National Geographic
-217.113.16.23/NationalGeographic/index.m3u8
-#EXTINF:-1 group-title="++",Охота и рыбалка
-217.113.16.23/oxotairibalka/index.m3u8
-#EXTINF:-1 group-title="++",Точка отрыва
-217.113.16.23/tochkaotriva/index.m3u8
-#EXTINF:-1 group-title="++",RTG TV
-217.113.16.23/rtgtv/index.m3u8
-#EXTINF:-1 group-title="++",Ключ
-217.113.16.23/kluch/index.m3u8
-#EXTINF:-1 group-title="++",СТС Love
-217.113.16.23/stslove/index.m3u8
-#EXTINF:-1 group-title="++",Зоопарк
-217.113.16.23/Zoopark/index.m3u8
-#EXTINF:-1 group-title="++",Fashion TV HD
-217.113.16.23/FashionTV/index.m3u8
-#EXTINF:-1 group-title="++",Euronews
-217.113.16.23/euronews/index.m3u8
-#EXTINF:-1 group-title="++",Авто 24
-217.113.16.23/Avto24/index.m3u8
-#EXTINF:-1 group-title="++", Авто 24
-217.113.16.23/FastFunBox/index.m3u8
-#EXTINF:-1 group-title="++",RT Doc HD
-217.113.16.23/rtdochd/index.m3u8
-#EXTINF:-1 group-title="++",Бобёр
-217.113.16.23/bobyor/index.m3u8
-#EXTINF:-1 group-title="++",Карусель
-217.113.16.23/Karusel/index.m3u8
-#EXTINF:-1 group-title="++",Da Vinci
-217.113.16.23/DaVinci/index.m3u8
-#EXTINF:-1 group-title="++",Tiji
-217.113.16.23/tiji/index.m3u8
-#EXTINF:-1 group-title="++",2x2
-217.113.16.23/2x2/index.m3u8
-#EXTINF:-1 group-title="++",СТС Kids
-217.113.16.23/STSkids/index.m3u8
-#EXTINF:-1 group-title="++",Солнце
-217.113.16.23/Disney/index.m3u8
-#EXTINF:-1 group-title="++",Мультиландия
-217.113.16.23/multilandia/index.m3u8
-#EXTINF:-1 group-title="++",Ani
-217.113.16.23/anitv/index.m3u8
-#EXTINF:-1 group-title="++",Cartoon Network
-217.113.16.23/CartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="++", Gulli
-217.113.16.23/Gulli/index.m3u8
-#EXTINF:-1 group-title="++",Европа Плюс ТВ
-217.113.16.23/europaplus/index.m3u8
-#EXTINF:-1 group-title="++",МузТВ
-217.113.16.23/muztv/index.m3u8
-#EXTINF:-1 group-title="++",ТНТ Music
-217.113.16.23/TNTMusic/index.m3u8
-#EXTINF:-1 group-title="++", Mezzo
-217.113.16.23/Mezzo/index.m3u8
-#EXTINF:-1 group-title="++",Россия 1
-217.113.16.23/Rossia1/index.m3u8
-#EXTINF:-1 group-title="++",РЕН ТВ
-217.113.16.23/rentv/index.m3u8
-#EXTINF:-1 group-title="++",НТВ HD
-217.113.16.23/ntvhd/index.m3u8
-#EXTINF:-1 group-title="++",ТНТ HD
-217.113.16.23/tnthd/index.m3u8
-#EXTINF:-1 group-title="++",НТВ +4
-217.113.16.23/ntvplus4/index.m3u8
-#EXTINF:-1 group-title="++",НТВ МИР
-217.113.16.23/NTVMir/index.m3u8
-#EXTINF:-1 group-title="++",СТС HD
-217.113.16.23/stshd/index.m3u8
-#EXTINF:-1 group-title="++",СТС
-217.113.16.23/sts/index.m3u8
-#EXTINF:-1 group-title="++",РБК
-217.113.16.23/RBK/index.m3u8
-#EXTINF:-1 group-title="++",Пятница
-217.113.16.23/Pyatnica/index.m3u8
-#EXTINF:-1 group-title="++",8 канал
-217.113.16.23/8Kanal/index.m3u8
-#EXTINF:-1 group-title="++",Ю
-217.113.16.23/yutv/index.m3u8
-#EXTINF:-1 group-title="++",Че
-217.113.16.23/chetv/index.m3u8
-#EXTINF:-1 group-title="++",Мир 24
-217.113.16.23/Mir24/index.m3u8
-#EXTINF:-1 group-title="++",Мир
-217.113.16.23/Mir/index.m3u8
-#EXTINF:-1 group-title="++",Setanta Sports 1
-217.113.16.23/Setanta/index.m3u8
-#EXTINF:-1 group-title="++",Футбол
-217.113.16.23/matchplaneta/index.m3u8
-#EXTINF:-1 group-title="++",Футбол
-217.113.16.23/futboltv/index.m3u8
-#EXTINF:-1 group-title="++",Eurosport 1
-217.113.16.23/eurosport1/index.m3u8
-#EXTINF:-1 group-title="++",Eurosport 2
-217.113.16.23/eurosport2/index.m3u8
-#EXTINF:-1 group-title="++",Матч! Футбол 1
-217.113.16.23/matchfutbol1/index.m3u8
-#EXTINF:-1 group-title="++",Матч! Страна
-217.113.16.23/match-strana/index.m3u8
-#EXTINF:-1 group-title="++",Матч! Игра
-217.113.16.23/match-igra/index.m3u8
-#EXTINF:-1 group-title="++",Матч! Боец
-217.113.16.23/match-boec/index.m3u8
-#EXTINF:-1 group-title="++",Матч ТВ
-217.113.16.23/match/index.m3u8
-#EXTINF:-1 group-title="++",Матч Премьер
-217.113.16.23/matchpremier/index.m3u8
-#EXTINF:-1 group-title="++",Матч HD
-217.113.16.23/match-tvhd/index.m3u8
-#EXTINF:-1 group-title="++",KHL HD
-217.113.16.23/khl/index.m3u8
-#EXTINF:-1 group-title="++",5TV HD
-217.113.16.23/5TV/index.m3u8
-#EXTINF:-1 group-title="++",21 tv
-217.113.16.23/21tv/index.m3u8
+#EXTINF:-1 group-title="++",XYPlus HD
+http://78.108.251.7:8080/XYPlus/index.m3u8
+#EXTINF:-1 group-title="++",WNESSTVHD
+http://78.108.251.7:8080/WNESSTVHD/index.m3u8
+#EXTINF:-1 group-title="++",Cinemax_HD
+http://78.108.251.7:8080/Cinemax_HD/index.m3u8
+#EXTINF:-1 group-title="++",Discovery_HD
+http://78.108.251.7:8080/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="++",Disney_Junior
+http://78.108.251.7:8080/Disney_Junior/index.m3u8
+#EXTINF:-1 group-title="++",Food_Network_HD
+http://78.108.251.7:8080/Food_Network_HD/index.m3u8
+#EXTINF:-1 group-title="++",HBO2_HD
+http://78.108.251.7:8080/HBO2_HD/index.m3u8
+#EXTINF:-1 group-title="++",HBO3_HD
+http://78.108.251.7:8080/HBO3_HD/index.m3u8
+#EXTINF:-1 group-title="++",HBO_HD
+http://78.108.251.7:8080/HBO_HD/index.m3u8
+#EXTINF:-1 group-title="++",Arena_Sport_1 HD
+http://78.108.251.7:8080/Arena_Sport_1/index.m3u8
+#EXTINF:-1 group-title="++",MovieStar HD
+http://78.108.251.7:8080/MovieStar/index.m3u8
+#EXTINF:-1 group-title="++",Diema HD
+http://78.108.251.7:8080/Diema/index.m3u8
+#EXTINF:-1 group-title="++",MagicTV HD
+http://78.108.251.7:8080/MagicTV/index.m3u8
+#EXTINF:-1 group-title="++",DMSat
+http://78.108.251.7:8080/DMSat/index.m3u8
+#EXTINF:-1 group-title="++",EKids
+http://78.108.251.7:8080/EKids/index.m3u8
+#EXTINF:-1 group-title="++",RodinaTV HD
+http://78.108.251.7:8080/RodinaTV/index.m3u8
+#EXTINF:-1 group-title="++",DaVinciLearning
+http://78.108.251.7:8080/DaVinciLearning/index.m3u8
+#EXTINF:-1 group-title="++",DuckTV
+http://78.108.251.7:8080/DuckTV/index.m3u8
+#EXTINF:-1 group-title="++",MTVEurope
+http://78.108.251.7:8080/MTVEurope/index.m3u8
+#EXTINF:-1 group-title="++",EpicDrama HD
+http://78.108.251.7:8080/EpicDrama/index.m3u8
+#EXTINF:-1 group-title="++",DiemaFamily
+http://78.108.251.7:8080/DiemaFamily/index.m3u8
+#EXTINF:-1 group-title="++",Diema HD
+http://78.108.251.7:8080/Diema/index.m3u8
+#EXTINF:-1 group-title="++",BabyTV
+http://78.108.251.7:8080/BabyTV/index.m3u8
+#EXTINF:-1 group-title="++",NickToons
+http://78.108.251.7:8080/NickToons/index.m3u8
+#EXTINF:-1 group-title="++",NickToons
+http://78.108.251.7:8080/NickToons/index.m3u8
+#EXTINF:-1 group-title="++",amc
+http://78.108.251.7:8080/amc/index.m3u8
+#EXTINF:-1 group-title="++",PassionXXX HD
+http://78.108.251.7:8080/PassionXXX/index.m3u8
+#EXTINF:-1 group-title="++",BBC
+http://78.108.251.7:8080/BBC/index.m3u8
+#EXTINF:-1 group-title="++",CNN HD
+http://78.108.251.7:8080/CNN/index.m3u8
+#EXTINF:-1 group-title="++",RTVi
+http://78.108.251.7:8080/RTVi/index.m3u8
+#EXTINF:-1 group-title="++",Travel_Channel_HD
+http://78.108.251.7:8080/Travel_Channel_HD/index.m3u8
+#EXTINF:-1 group-title="++",Disney_Junior
+http://78.108.251.7:8080/Disney_Junior/index.m3u8
+#EXTINF:-1 group-title="++",Cartoon_Network
+http://78.108.251.7:8080/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="++",Boomerang
+http://78.108.251.7:8080/Boomerang/index.m3u8
+#EXTINF:-1 group-title="++",Nick_Jr
+http://78.108.251.7:8080/Nick_Jr/index.m3u8
+#EXTINF:-1 group-title="++",Nick_Jr
+http://78.108.251.7:8080/Nick_Jr/index.m3u8
+#EXTINF:-1 group-title="++",Cartoon_Network
+http://78.108.251.7:8080/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="++",Discovery_HD
+http://78.108.251.7:8080/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="++",RTVi
+http://78.108.251.7:8080/RTVi/index.m3u8
+#EXTINF:-1 group-title="++",HGTV_HD
+http://78.108.251.7:8080/HGTV_HD/index.m3u8
+#EXTINF:-1 group-title="++",Erox HD
+http://78.108.251.7:8080/Erox/index.m3u8
+#EXTINF:-1 group-title="++",TV1000
+http://78.108.251.7:8080/TV1000/index.m3u8
+#EXTINF:-1 group-title="++",tlc HD
+http://78.108.251.7:8080/tlc/index.m3u8
+#EXTINF:-1 group-title="++",TV1000
+http://78.108.251.7:8080/TV1000/index.m3u8
+#EXTINF:-1 group-title="++",NasheKino
+http://78.108.251.7:8080/NasheKino/index.m3u8
