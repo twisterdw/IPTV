@@ -1,47 +1,163 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 ,ТВA-16.08.2025/tva.org.ua
-https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
-#EXTINF:0,dmax
-https://strm.hdtvizlecanli.com/live/dmax.m3u8
-#EXTINF:0,tlc
-https://strm.hdtvizlecanli.com/live/tlc.m3u8
-#EXTINF:0,kabel1
-https://strm.hdtvizlecanli.com/live/kabel1.m3u8
-#EXTINF:0,n24
-https://strm.hdtvizlecanli.com/live/n24.m3u8
-#EXTINF:0,pro7
-https://strm.hdtvizlecanli.com/live/pro7.m3u8
-#EXTINF:0,rtl
-https://strm.hdtvizlecanli.com/live/rtl.m3u8
-#EXTINF:0,rtl2
-https://strm.hdtvizlecanli.com/live/rtl2.m3u8
-#EXTINF:0,sat1
-https://strm.hdtvizlecanli.com/live/sat1.m3u8
-#EXTINF:0,superrtl
-https://strm.hdtvizlecanli.com/live/superrtl.m3u8
-#EXTINF:0,tele5
-https://strm.hdtvizlecanli.com/live/tele5.m3u8
-#EXTINF:0,vox
-https://strm.hdtvizlecanli.com/live/vox.m3u8
-#EXTINF:0,zdf
-https://strm.hdtvizlecanli.com/live/zdf.m3u8
-#EXTINF:0,zdf neo
-https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
-#EXTINF:0,ard1
-https://strm.hdtvizlecanli.com/live/ard1.m3u8
-#EXTINF:0,nitro
-https://strm.hdtvizlecanli.com/live/nitro.m3u8
-#EXTINF:0,orf 1
-https://strm.hdtvizlecanli.com/live/orf1.m3u8
-#EXTINF:0,orf 2
-https://strm.hdtvizlecanli.com/live/orf2.m3u8
-#EXTINF:0,atv HD
-https://strm.hdtvizlecanli.com/live/atv.m3u8
-#EXTINF:0,sat1 gold
-https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
-#EXTINF:-1,comedy
-https://strm.hdtvizlecanli.com/live/comedy.m3u8
-#EXTINF:0,ntv
-https://strm.hdtvizlecanli.com/live/ntv.m3u8
-#EXTINF:-1,disney
-https://strm.hdtvizlecanli.com/live/disney.m3u8
+#EXTM3U
+#EXTINF:-1, ZDF
+http://listamy.com:8080/lola/lola/370993
+#EXTINF:-1, ZDF Info
+http://listamy.com:8080/lola/lola/370994
+#EXTINF:-1, ZDF NEO HD
+http://listamy.com:8080/lola/lola/370995
+#EXTINF:-1, VOX
+http://listamy.com:8080/lola/lola/370996
+#EXTINF:-1, SIXX
+http://listamy.com:8080/lola/lola/370997
+#EXTINF:-1, Servus TV
+http://listamy.com:8080/lola/lola/370998
+#EXTINF:-1, KABEL 1 DOKU
+http://listamy.com:8080/lola/lola/370999
+#EXTINF:-1, Kabel 1
+http://listamy.com:8080/lola/lola/371000
+#EXTINF:-1, KABEL 1 CLASSIC
+http://listamy.com:8080/lola/lola/371001
+#EXTINF:-1, PROSIEBEN MAXX
+http://listamy.com:8080/lola/lola/371002
+#EXTINF:-1, Prosieben HD
+http://listamy.com:8080/lola/lola/371003
+#EXTINF:-1, Pro7 Fun HD
+http://listamy.com:8080/lola/lola/371004
+#EXTINF:-1, RTL Living
+http://listamy.com:8080/lola/lola/371005
+#EXTINF:-1, N-TV
+http://listamy.com:8080/lola/lola/371006
+#EXTINF:-1, Sky Fox HD
+http://listamy.com:8080/lola/lola/371007
+#EXTINF:-1, Eurosport 1 HD
+http://listamy.com:8080/lola/lola/371008
+#EXTINF:-1, Eurosport 2 HD
+http://listamy.com:8080/lola/lola/371009
+#EXTINF:-1, Eurosport 2 xtra HD
+http://listamy.com:8080/lola/lola/371010
+#EXTINF:-1, DMAX
+http://listamy.com:8080/lola/lola/371011
+#EXTINF:-1, Disney Cinemagic HD
+http://listamy.com:8080/lola/lola/371012
+#EXTINF:-1, TNT Serie HD
+http://listamy.com:8080/lola/lola/371013
+#EXTINF:-1, TNT Film FHD
+http://listamy.com:8080/lola/lola/371014
+#EXTINF:-1, TNT Comedy HD
+http://listamy.com:8080/lola/lola/371015
+#EXTINF:-1, Das Erste
+http://listamy.com:8080/lola/lola/371016
+#EXTINF:-1, Classica
+http://listamy.com:8080/lola/lola/371017
+#EXTINF:-1, Boomerang
+http://listamy.com:8080/lola/lola/371019
+#EXTINF:-1, AXN HD
+http://listamy.com:8080/lola/lola/371020
+#EXTINF:-1, ARD Alpha HD
+http://listamy.com:8080/lola/lola/371021
+#EXTINF:-1, N24
+http://listamy.com:8080/lola/lola/371022
+#EXTINF:-1, Sky 13th Street
+http://listamy.com:8080/lola/lola/371023
+#EXTINF:-1, My Sports HD
+http://listamy.com:8080/lola/lola/371024
+#EXTINF:-1, Discovery HD
+http://listamy.com:8080/lola/lola/371025
+#EXTINF:-1, National Geographic HD
+http://listamy.com:8080/lola/lola/371026
+#EXTINF:-1, National Geographic Wild HD
+http://listamy.com:8080/lola/lola/371027
+#EXTINF:-1, Orf 1
+http://listamy.com:8080/lola/lola/371028
+#EXTINF:-1, Orf 2
+http://listamy.com:8080/lola/lola/371029
+#EXTINF:-1, ORF SPORTS HD
+http://listamy.com:8080/lola/lola/371030
+#EXTINF:-1, Disney Junior
+http://listamy.com:8080/lola/lola/371031
+#EXTINF:-1, Disney Channel
+http://listamy.com:8080/lola/lola/371032
+#EXTINF:-1, Disney XD
+http://listamy.com:8080/lola/lola/371033
+#EXTINF:-1, Sport 1+  HD
+http://listamy.com:8080/lola/lola/371034
+#EXTINF:-1, Kika
+http://listamy.com:8080/lola/lola/371035
+#EXTINF:-1, Nickelodeon HD
+http://listamy.com:8080/lola/lola/371036
+#EXTINF:-1, RTL Crime HD
+http://listamy.com:8080/lola/lola/371037
+#EXTINF:-1, RTL NITRO
+http://listamy.com:8080/lola/lola/371038
+#EXTINF:-1, RTL Passion HD
+http://listamy.com:8080/lola/lola/371039
+#EXTINF:-1, SUPER RTL HD
+http://listamy.com:8080/lola/lola/371040
+#EXTINF:-1, RTL2
+http://listamy.com:8080/lola/lola/371041
+#EXTINF:-1, RTL
+http://listamy.com:8080/lola/lola/371042
+#EXTINF:-1, Sat 1 HD
+http://listamy.com:8080/lola/lola/371043
+#EXTINF:-1, TLC
+http://listamy.com:8080/lola/lola/371044
+#EXTINF:-1, Heimat Kanal
+http://listamy.com:8080/lola/lola/371045
+#EXTINF:-1, Syfy
+http://listamy.com:8080/lola/lola/371046
+#EXTINF:-1, Deluxe Music HD
+http://listamy.com:8080/lola/lola/371047
+#EXTINF:-1, WDR HD
+http://listamy.com:8080/lola/lola/371048
+#EXTINF:-1, History HD
+http://listamy.com:8080/lola/lola/371049
+#EXTINF:-1, NDR HD
+http://listamy.com:8080/lola/lola/371050
+#EXTINF:-1, Arte HD
+http://listamy.com:8080/lola/lola/371051
+#EXTINF:-1, E! Enterteinment
+http://listamy.com:8080/lola/lola/371052
+#EXTINF:-1, PLANET FHD
+http://listamy.com:8080/lola/lola/371053
+#EXTINF:-1, SKY ONE HD
+http://listamy.com:8080/lola/lola/371054
+#EXTINF:-1, Sky Cinema Nostalgie
+http://listamy.com:8080/lola/lola/371055
+#EXTINF:-1, Sky Cinema Action HD
+http://listamy.com:8080/lola/lola/371056
+#EXTINF:-1, SKY ATLANTIC HD
+http://listamy.com:8080/lola/lola/371057
+#EXTINF:-1, Sky Cinema  Premieren HD
+http://listamy.com:8080/lola/lola/371058
+#EXTINF:-1, Sky Cinema HD
+http://listamy.com:8080/lola/lola/371059
+#EXTINF:-1, SKY CINEMA  Premieren +24
+http://listamy.com:8080/lola/lola/371060
+#EXTINF:-1, Sky Cinema Family HD
+http://listamy.com:8080/lola/lola/371061
+#EXTINF:-1, Sky Cinema Hits HD
+http://listamy.com:8080/lola/lola/371062
+#EXTINF:-1, Sky Cinema Comedy HD
+http://listamy.com:8080/lola/lola/371063
+#EXTINF:-1, Sky Cinema Thriller HD
+http://listamy.com:8080/lola/lola/371064
+#EXTINF:-1, Sky Krimi HD
+http://listamy.com:8080/lola/lola/371065
+#EXTINF:-1, Sky Disney Junior HD
+http://listamy.com:8080/lola/lola/371066
+#EXTINF:-1, 3 SAT FHD
+http://listamy.com:8080/lola/lola/371067
+#EXTINF:-1, Kinowelt TV FHD
+http://listamy.com:8080/lola/lola/371068
+#EXTINF:-1, Sony HD
+http://listamy.com:8080/lola/lola/371069
+#EXTINF:-1, Sky Universal HD
+http://listamy.com:8080/lola/lola/371070
+#EXTINF:-1, sky sport austria
+http://listamy.com:8080/lola/lola/371071
+#EXTINF:-1, Sky Sport News HD
+http://listamy.com:8080/lola/lola/371072
+#EXTINF:-1, DAZN Bar 1
+http://listamy.com:8080/lola/lola/371073
+#EXTINF:-1, DAZN Bar 2
+http://listamy.com:8080/lola/lola/371074
